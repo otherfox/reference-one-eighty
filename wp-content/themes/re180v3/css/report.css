@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#container {
+margin: 0 !important;
+width:100% !important;
+}
+
+
+body#report {
+margin: 0 !important;
+}
+
+body {
+margin: 0 !important;
+}
+
+#stage {
+padding: 0 !important;
+}
+
+#container {
+min-width: 0 !important;
+-webkit-box-shadow: 0 !important;
+-moz-box-shadow: 0 !important;
+-o-box-shadow: 0;box-shadow: 0 !important;
+}
+
+
+
+.wfo_grid {
+-webkit-box-shadow: 0 !important;
+-moz-box-shadow: 0 !important;
+-o-box-shadow: 0 !important;
+box-shadow: 0 !important;
+}
+

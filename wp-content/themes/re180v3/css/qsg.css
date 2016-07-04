@@ -1,0 +1,48 @@
+/* Wufoo Stylesheet for QSG COPY - orgininal locted in dropbox */
+
+.wufoo input.btTxt {
+	-moz-box-shadow: inset 0px 1px 0px 0px #fceaca;
+	-webkit-box-shadow: inset 0px 1px 0px 0px #fceaca;
+	box-shadow: inset 0px 1px 0px 0px #fceaca;
+	background: -webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ffce79), color-stop(1, #eeaf41) );
+	background: -moz-linear-gradient( center top, #ffce79 5%, #eeaf41 100% );
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffce79', endColorstr='#eeaf41');
+	background-color: #ffce79;
+	-webkit-border-top-left-radius: 10px;
+	-moz-border-radius-topleft: 10px;
+	border-top-left-radius: 10px;
+	-webkit-border-top-right-radius: 10px;
+	-moz-border-radius-topright: 10px;
+	border-top-right-radius: 10px;
+	-webkit-border-bottom-right-radius: 10px;
+	-moz-border-radius-bottomright: 10px;
+	border-bottom-right-radius: 10px;
+	-webkit-border-bottom-left-radius: 10px;
+	-moz-border-radius-bottomleft: 10px;
+	border-bottom-left-radius: 10px;
+	text-indent: 0px;
+	border: 2px solid #eeb44f;
+	display: inline-block;
+	color: #ffffff;
+	font-family: Arial;
+	font-size: 18px;
+	font-weight: bold;
+	font-style: normal;
+	line-height: 260%;
+	width: 168px;
+	text-decoration: none;
+	text-align: center;
+	text-shadow: 1px 1px 0px #ce8e28;
+	cursor: pointer;
+}
+
+.wufoo input.btTxt:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #eeaf41), color-stop(1, #ffce79) );
+	background:-moz-linear-gradient( center top, #eeaf41 5%, #ffce79 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#eeaf41', endColorstr='#ffce79');
+	background-color:#eeaf41;
+}
+.wufoo input.btTxt:active {
+	position:relative;
+	top:1px;
+}

@@ -1,0 +1,180 @@
+/* 	Custom Opt-in Wufoo Form Styling
+	Author: Nick Tennies
+/*	
+
+
+
+/* Submit */
+
+#saveForm { 				/* Same Line Submit */
+	position: relative;
+	top: -59px;	
+	left: 330px;
+	-moz-box-shadow: inset 0px 1px 0px 0px #fceaca;
+	-webkit-box-shadow: inset 0px 1px 0px 0px #fceaca;
+	box-shadow: inset 0px 1px 0px 0px #fceaca;
+	background: -webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ffce79), color-stop(1, #eeaf41) );
+	background: -moz-linear-gradient( center top, #ffce79 5%, #eeaf41 100% );
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffce79', endColorstr='#eeaf41');
+	background-color: #ffce79;
+	-webkit-border-top-left-radius: 5px;
+	-moz-border-radius-topleft: 5px;
+	border-top-left-radius: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-moz-border-radius-topright: 5px;
+	border-top-right-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	-moz-border-radius-bottomright: 5px;
+	border-bottom-right-radius: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	border-bottom-left-radius: 5px;
+	text-indent: 0px;
+	border: 2px solid #eeb44f;
+	display: inline-block;
+	color: #ffffff;
+	font-family: Arial;
+	font-style: normal;
+	height: 25px;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+	text-align: center;
+	text-shadow: 1px 1px 0px #ce8e28;
+	cursor: pointer;	
+	width: 80px;
+}
+
+#saveForm:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #eeaf41), color-stop(1, #ffce79) );
+	background:-moz-linear-gradient( center top, #eeaf41 5%, #ffce79 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#eeaf41', endColorstr='#ffce79');
+	background-color:#eeaf41;
+}
+
+#saveForm:active {
+	position:relative;
+	top: -58px;	
+}
+
+/* Container */
+
+#container {				/* Size Container and Eliminate scroll bar */
+	overflow: hidden;
+	height: 33px;
+	margin-bottom: 0;
+}
+
+#container, html.embed {
+	background: transparent;
+}
+
+/* Label and Input Sizing */
+
+form li {
+	padding-bottom: 5px;
+}
+
+.leftLabel li, .rightLabel li {
+	padding-top: 6px;
+}
+
+.leftLabel .desc, .rightLabel .desc {
+	width: 15%;
+}
+.leftLabel #title3 {
+	width: 18%;
+}
+
+.leftLabel li div, .rightLabel li div {
+	width: 50%;
+}
+
+form li.leftHalf, form li.rightHalf {
+	width: 42% !important;
+}
+
+form li.rightHalf {
+	float: left;
+	width: 54% !important;
+}
+
+input.medium, select.medium {
+	width: 79%;
+}
+
+label.desc, legend.desc {
+	line-height: 190%;
+}
+
+/* label and input styling */
+
+.wufoo label.desc, .wufoo legend.desc {
+	color: #999;
+}
+.wufoo input.text {
+	padding-left: 5px;
+	-webkit-border-top-left-radius: 3px;
+	-moz-border-radius-topleft: 3px;
+	border-top-left-radius: 3px;
+	-webkit-border-top-right-radius: 3px;
+	-moz-border-radius-topright: 3px;
+	border-top-right-radius: 3px;
+	-webkit-border-bottom-right-radius: 3px;
+	-moz-border-radius-bottomright: 3px;
+	border-bottom-right-radius: 3px;
+	-webkit-border-bottom-left-radius: 3px;
+	-moz-border-radius-bottomleft: 3px;
+	border-bottom-left-radius: 3px;
+	background: #333;
+	border: 1px solid #999;
+	color: #fff;
+}
+
+form span.req {
+	color: #777 !important;
+}
+
+/* Focused */
+
+form .focused span.req {
+	color: red !important;
+}
+
+.wufoo .focused input.text {
+	border-top: 1px solid #7c7c7c;
+	border-left: 1px solid #c3c3c3;
+	border-right: 1px solid #c3c3c3;
+	border-bottom: 1px solid #ddd;
+	background: #fff url(/images/fieldbg.gif) repeat-x top;
+	color: #000;
+}
+
+/* Confirmation */
+
+.confirm h2 {
+	font-size: 14px;
+	line-height: 150%;
+	color: #ffce79;
+	padding: 6px 0;
+}
+
+
+/* Error */
+
+#errorLi {
+	display: none;
+}
+
+form li.error {
+	margin-bottom: 0px !important;
+	background-color: #aa0000 !important;
+}
+
+form li.error .desc {
+	color: #FFDFDF !important;
+}
+
+form li.error p.error {
+	display:none;
+}

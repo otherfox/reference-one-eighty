@@ -1,0 +1,3284 @@
+{
+    "AF":
+    {
+        "country_iso_2char": "AF",
+        "country_iso_3char": "AFG",
+        "country_iso_number": "004",
+        "country_name": "Afghanistan",
+        "currency_iso_3char": "AFN",
+        "currency_iso_number": "971",
+        "currency_name": "Afghani",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "AL":
+    {
+        "country_iso_2char": "AL",
+        "country_iso_3char": "ALB",
+        "country_iso_number": "008",
+        "country_name": "Albania",
+        "currency_iso_3char": "ALL",
+        "currency_iso_number": "008",
+        "currency_name": "Lek",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "DZ":
+    {
+        "country_iso_2char": "DZ",
+        "country_iso_3char": "DZA",
+        "country_iso_number": "012",
+        "country_name": "Algeria",
+        "currency_iso_3char": "DZD",
+        "currency_iso_number": "012",
+        "currency_name": "Algerian Dinar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "AS":
+    {
+        "country_iso_2char": "AS",
+        "country_iso_3char": "ASM",
+        "country_iso_number": "016",
+        "country_name": "American Samoa",
+        "currency_iso_3char": "USD",
+        "currency_iso_number": "840",
+        "currency_name": "US Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "AD":
+    {
+        "country_iso_2char": "AD",
+        "country_iso_3char": "AND",
+        "country_iso_number": "020",
+        "country_name": "Andorra",
+        "currency_iso_3char": "EUR",
+        "currency_iso_number": "978",
+        "currency_name": "Euro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "AO":
+    {
+        "country_iso_2char": "AO",
+        "country_iso_3char": "AGO",
+        "country_iso_number": "024",
+        "country_name": "Angola",
+        "currency_iso_3char": "AOA",
+        "currency_iso_number": "973",
+        "currency_name": "Kwanza",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "AI":
+    {
+        "country_iso_2char": "AI",
+        "country_iso_3char": "AIA",
+        "country_iso_number": "660",
+        "country_name": "Anguilla",
+        "currency_iso_3char": "XCD",
+        "currency_iso_number": "951",
+        "currency_name": "East Caribbean Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "AG":
+    {
+        "country_iso_2char": "AG",
+        "country_iso_3char": "ATG",
+        "country_iso_number": "028",
+        "country_name": "Antigua and Barbuda",
+        "currency_iso_3char": "XCD",
+        "currency_iso_number": "951",
+        "currency_name": "East Caribbean Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "AR":
+    {
+        "country_iso_2char": "AR",
+        "country_iso_3char": "ARG",
+        "country_iso_number": "032",
+        "country_name": "Argentina",
+        "currency_iso_3char": "ARP",
+        "currency_iso_number": "",
+        "currency_name": "Peso argentino",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "AM":
+    {
+        "country_iso_2char": "AM",
+        "country_iso_3char": "ARM",
+        "country_iso_number": "051",
+        "country_name": "Armenia",
+        "currency_iso_3char": "AMD",
+        "currency_iso_number": "051",
+        "currency_name": "Armenian Dram",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "AW":
+    {
+        "country_iso_2char": "AW",
+        "country_iso_3char": "ABW",
+        "country_iso_number": "533",
+        "country_name": "Aruba",
+        "currency_iso_3char": "AWG",
+        "currency_iso_number": "533",
+        "currency_name": "Aruban Guilder",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "AU":
+    {
+        "country_iso_2char": "AU",
+        "country_iso_3char": "AUS",
+        "country_iso_number": "036",
+        "country_name": "Australia",
+        "currency_iso_3char": "AUD",
+        "currency_iso_number": "036",
+        "currency_name": "Australian Dollar",
+        "state_name": "State\/Territory",
+        "states":
+        {
+            "ACT": "Australian Capital Territory",
+            "NSW": "New South Wales",
+            "NT": "Northern Territory",
+            "QLD": "Queensland",
+            "SA": "South Australia",
+            "TAS": "Tasmania",
+            "VIC": "Victoria",
+            "WA'": "Western Australia"
+        }
+    },
+    "AT":
+    {
+        "country_iso_2char": "AT",
+        "country_iso_3char": "AUT",
+        "country_iso_number": "040",
+        "country_name": "Austria",
+        "currency_iso_3char": "EUR",
+        "currency_iso_number": "978",
+        "currency_name": "Euro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "AZ":
+    {
+        "country_iso_2char": "AZ",
+        "country_iso_3char": "AZE",
+        "country_iso_number": "031",
+        "country_name": "Azerbaijan",
+        "currency_iso_3char": "AZN",
+        "currency_iso_number": "944",
+        "currency_name": "Azerbaijanian Manat",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "BS":
+    {
+        "country_iso_2char": "BS",
+        "country_iso_3char": "BHS",
+        "country_iso_number": "044",
+        "country_name": "Bahamas",
+        "currency_iso_3char": "BSD",
+        "currency_iso_number": "044",
+        "currency_name": "Bahamian Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "BH":
+    {
+        "country_iso_2char": "BH",
+        "country_iso_3char": "BHR",
+        "country_iso_number": "048",
+        "country_name": "Bahrain",
+        "currency_iso_3char": "BHD",
+        "currency_iso_number": "048",
+        "currency_name": "Bahraini Dinar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "BD":
+    {
+        "country_iso_2char": "BD",
+        "country_iso_3char": "BGD",
+        "country_iso_number": "050",
+        "country_name": "Bangladesh",
+        "currency_iso_3char": "BDT",
+        "currency_iso_number": "050",
+        "currency_name": "Taka",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "BB":
+    {
+        "country_iso_2char": "BB",
+        "country_iso_3char": "BRB",
+        "country_iso_number": "052",
+        "country_name": "Barbados",
+        "currency_iso_3char": "BBD",
+        "currency_iso_number": "052",
+        "currency_name": "Barbados Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "BY":
+    {
+        "country_iso_2char": "BY",
+        "country_iso_3char": "BLR",
+        "country_iso_number": "112",
+        "country_name": "Belarus",
+        "currency_iso_3char": "BYR",
+        "currency_iso_number": "974",
+        "currency_name": "Belarussian Ruble",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "BE":
+    {
+        "country_iso_2char": "BE",
+        "country_iso_3char": "BEL",
+        "country_iso_number": "056",
+        "country_name": "Belgium",
+        "currency_iso_3char": "EUR",
+        "currency_iso_number": "978",
+        "currency_name": "Euro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "BZ":
+    {
+        "country_iso_2char": "BZ",
+        "country_iso_3char": "BLZ",
+        "country_iso_number": "084",
+        "country_name": "Belize",
+        "currency_iso_3char": "BZD",
+        "currency_iso_number": "084",
+        "currency_name": "Belize Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "BJ":
+    {
+        "country_iso_2char": "BJ",
+        "country_iso_3char": "BEN",
+        "country_iso_number": "204",
+        "country_name": "Benin",
+        "currency_iso_3char": "XOF",
+        "currency_iso_number": "952",
+        "currency_name": "CFA Franc BCEAO",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "BM":
+    {
+        "country_iso_2char": "BM",
+        "country_iso_3char": "BMU",
+        "country_iso_number": "060",
+        "country_name": "Bermuda",
+        "currency_iso_3char": "BMD",
+        "currency_iso_number": "060",
+        "currency_name": "Bermudian Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "BT":
+    {
+        "country_iso_2char": "BT",
+        "country_iso_3char": "BTN",
+        "country_iso_number": "064",
+        "country_name": "Bhutan",
+        "currency_iso_3char": "BTN",
+        "currency_iso_number": "064",
+        "currency_name": "Ngultrum",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "BO":
+    {
+        "country_iso_2char": "BO",
+        "country_iso_3char": "BOL",
+        "country_iso_number": "068",
+        "country_name": "Bolivia",
+        "currency_iso_3char": "BOV",
+        "currency_iso_number": "984",
+        "currency_name": "Mvdol",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "BA":
+    {
+        "country_iso_2char": "BA",
+        "country_iso_3char": "BIH",
+        "country_iso_number": "070",
+        "country_name": "Bosnia and Herzegovina",
+        "currency_iso_3char": "BAM",
+        "currency_iso_number": "977",
+        "currency_name": "Convertible Marks",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "BW":
+    {
+        "country_iso_2char": "BW",
+        "country_iso_3char": "BWA",
+        "country_iso_number": "072",
+        "country_name": "Botswana",
+        "currency_iso_3char": "BWP",
+        "currency_iso_number": "072",
+        "currency_name": "Pula",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "BV":
+    {
+        "country_iso_2char": "BV",
+        "country_iso_3char": "BVT",
+        "country_iso_number": "074",
+        "country_name": "Bouvet Island",
+        "currency_iso_3char": "NOK",
+        "currency_iso_number": "578",
+        "currency_name": "Norwegian Krone",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "BR":
+    {
+        "country_iso_2char": "BR",
+        "country_iso_3char": "BRA",
+        "country_iso_number": "076",
+        "country_name": "Brazil",
+        "currency_iso_3char": "BRL",
+        "currency_iso_number": "986",
+        "currency_name": "Brazilian Real",
+        "state_name": "State\/District",
+        "states":
+        {
+            "AC": "Acre",
+            "AL": "Alagoas",
+            "AP": "Amap&aacute;",
+            "AM": "Amazonas",
+            "BA": "Bahia",
+            "CE": "Cear&aacute;",
+            "DF": "Distrito Federal",
+            "ES": "Esp&iacute;rito Santo",
+            "GO": "Goi&aacute;s",
+            "MA": "Maranh&atilde;o",
+            "MT": "Mato Grosso",
+            "MS": "Mato Grosso do Sul",
+            "MG": "Minas Gerais",
+            "PA": "Par&aacute;",
+            "PB": "Para&iacute;ba",
+            "PR": "Paran&aacute;",
+            "PE": "Pernambuco",
+            "PI": "Piau&iacute;",
+            "RJ": "Rio de Janeiro",
+            "RN": "Rio Grande do Norte",
+            "RS": "Rio Grande do Sul",
+            "RO": "Rond&ocirc;nia",
+            "RR": "Roraima",
+            "SC": "Santa Catarina",
+            "SP": "S&atilde;o Paulo",
+            "SE": "Sergipe",
+            "TO": "Tocantins"
+        }
+    },
+    "IO":
+    {
+        "country_iso_2char": "IO",
+        "country_iso_3char": "IOT",
+        "country_iso_number": "086",
+        "country_name": "British Indian Ocean Territory",
+        "currency_iso_3char": "USD",
+        "currency_iso_number": "840",
+        "currency_name": "US Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "BN":
+    {
+        "country_iso_2char": "BN",
+        "country_iso_3char": "BRN",
+        "country_iso_number": "096",
+        "country_name": "Brunei Darussalam",
+        "currency_iso_3char": "BND",
+        "currency_iso_number": "096",
+        "currency_name": "Brunei Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "BG":
+    {
+        "country_iso_2char": "BG",
+        "country_iso_3char": "BGR",
+        "country_iso_number": "100",
+        "country_name": "Bulgaria",
+        "currency_iso_3char": "BGL",
+        "currency_iso_number": "100",
+        "currency_name": "Bulgarian lev A\/99",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "BF":
+    {
+        "country_iso_2char": "BF",
+        "country_iso_3char": "BFA",
+        "country_iso_number": "854",
+        "country_name": "Burkina Faso",
+        "currency_iso_3char": "XOF",
+        "currency_iso_number": "952",
+        "currency_name": "CFA Franc BCEAO",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "BI":
+    {
+        "country_iso_2char": "BI",
+        "country_iso_3char": "BDI",
+        "country_iso_number": "108",
+        "country_name": "Burundi",
+        "currency_iso_3char": "BIF",
+        "currency_iso_number": "108",
+        "currency_name": "Burundi Franc",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "KH":
+    {
+        "country_iso_2char": "KH",
+        "country_iso_3char": "KHM",
+        "country_iso_number": "116",
+        "country_name": "Cambodia",
+        "currency_iso_3char": "KHR",
+        "currency_iso_number": "116",
+        "currency_name": "Riel",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "CM":
+    {
+        "country_iso_2char": "CM",
+        "country_iso_3char": "CMR",
+        "country_iso_number": "120",
+        "country_name": "Cameroon",
+        "currency_iso_3char": "XAF",
+        "currency_iso_number": "950",
+        "currency_name": "CFA Franc BEAC",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "CA":
+    {
+        "country_iso_2char": "CA",
+        "country_iso_3char": "CAN",
+        "country_iso_number": "124",
+        "country_name": "Canada",
+        "currency_iso_3char": "CAD",
+        "currency_iso_number": "124",
+        "currency_name": "Canadian Dollar",
+        "state_name": "Province\/Territory",
+        "states":
+        {
+            "AB": "Alberta",
+            "BC": "British Columbia",
+            "MB": "Manitoba",
+            "NB": "New Brunswick",
+            "NL": "Newfoundland and Labrador",
+            "NT": "Northwest Territories",
+            "NS": "Nova Scotia",
+            "NU": "Nunavut",
+            "ON": "Ontario",
+            "PE": "Prince Edward Island",
+            "QC": "Quebec",
+            "SK": "Saskatchewan",
+            "YT": "Yukon"
+        }
+    },
+    "CV":
+    {
+        "country_iso_2char": "CV",
+        "country_iso_3char": "CPV",
+        "country_iso_number": "132",
+        "country_name": "Cape Verde",
+        "currency_iso_3char": "CVE",
+        "currency_iso_number": "132",
+        "currency_name": "Cape Verde Escudo",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "KY":
+    {
+        "country_iso_2char": "KY",
+        "country_iso_3char": "CYM",
+        "country_iso_number": "136",
+        "country_name": "Cayman Islands",
+        "currency_iso_3char": "KYD",
+        "currency_iso_number": "136",
+        "currency_name": "Cayman Islands Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "CF":
+    {
+        "country_iso_2char": "CF",
+        "country_iso_3char": "CAF",
+        "country_iso_number": "140",
+        "country_name": "Central African Republic",
+        "currency_iso_3char": "XAF",
+        "currency_iso_number": "950",
+        "currency_name": "CFA Franc BEAC",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "TD":
+    {
+        "country_iso_2char": "TD",
+        "country_iso_3char": "TCD",
+        "country_iso_number": "148",
+        "country_name": "Chad",
+        "currency_iso_3char": "XAF",
+        "currency_iso_number": "950",
+        "currency_name": "CFA Franc BEAC",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "CL":
+    {
+        "country_iso_2char": "CL",
+        "country_iso_3char": "CHL",
+        "country_iso_number": "152",
+        "country_name": "Chile",
+        "currency_iso_3char": "CLF",
+        "currency_iso_number": "990",
+        "currency_name": "Unidades de fomento",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "CN":
+    {
+        "country_iso_2char": "CN",
+        "country_iso_3char": "CHN",
+        "country_iso_number": "156",
+        "country_name": "China",
+        "currency_iso_3char": "CNY",
+        "currency_iso_number": "156",
+        "currency_name": "Yuan Renminbi",
+        "state_name": "Province\/Region",
+        "states":
+        {
+            "CN1": "Yunnan \/ &#20113;&#21335;",
+            "CN2": "Beijing \/ &#21271;&#20140;",
+            "CN3": "Tianjin \/ &#22825;&#27941;",
+            "CN4": "Hebei \/ &#27827;&#21271;",
+            "CN5": "Shanxi \/ &#23665;&#35199;",
+            "CN6": "Inner Mongolia \/ &#20839;&#33945;&#21476;",
+            "CN7": "Liaoning \/ &#36797;&#23425;",
+            "CN8": "Jilin \/ &#21513;&#26519;",
+            "CN9": "Heilongjiang \/ &#40657;&#40857;&#27743;",
+            "CN10": "Shanghai \/ &#19978;&#28023;",
+            "CN11": "Jiangsu \/ &#27743;&#33487;",
+            "CN12": "Zhejiang \/ &#27993;&#27743;",
+            "CN13": "Anhui \/ &#23433;&#24509;",
+            "CN14": "Fujian \/ &#31119;&#24314;",
+            "CN15": "Jiangxi \/ &#27743;&#35199;",
+            "CN16": "Shandong \/ &#23665;&#19996;",
+            "CN17": "Henan \/ &#27827;&#21335;",
+            "CN18": "Hubei \/ &#28246;&#21271;",
+            "CN19": "Hunan \/ &#28246;&#21335;",
+            "CN20": "Guangdong \/ &#24191;&#19996;",
+            "CN21": "Guangxi Zhuang \/ &#24191;&#35199;&#22766;&#26063;",
+            "CN22": "Hainan \/ &#28023;&#21335;",
+            "CN23": "Chongqing \/ &#37325;&#24198;",
+            "CN24": "Sichuan \/ &#22235;&#24029;",
+            "CN25": "Guizhou \/ &#36149;&#24030;",
+            "CN26": "Shaanxi \/ &#38485;&#35199;",
+            "CN27": "Gansu \/ &#29976;&#32899;",
+            "CN28": "Qinghai \/ &#38738;&#28023;",
+            "CN29": "Ningxia Hui \/ &#23425;&#22799;",
+            "CN30": "Macau \/ &#28595;&#38376;",
+            "CN31": "Tibet \/ &#35199;&#34255;",
+            "CN32": "Xinjiang \/ &#26032;&#30086;"
+        }
+    },
+    "CX":
+    {
+        "country_iso_2char": "CX",
+        "country_iso_3char": "CXR",
+        "country_iso_number": "162",
+        "country_name": "Christmas Island",
+        "currency_iso_3char": "AUD",
+        "currency_iso_number": "036",
+        "currency_name": "Australian Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "CC":
+    {
+        "country_iso_2char": "CC",
+        "country_iso_3char": "CCK",
+        "country_iso_number": "166",
+        "country_name": "Cocos (Keeling) Islands",
+        "currency_iso_3char": "AUD",
+        "currency_iso_number": "036",
+        "currency_name": "Australian Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "CO":
+    {
+        "country_iso_2char": "CO",
+        "country_iso_3char": "COL",
+        "country_iso_number": "170",
+        "country_name": "Colombia",
+        "currency_iso_3char": "COU",
+        "currency_iso_number": "970",
+        "currency_name": "Unidad de Valor real",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "KM":
+    {
+        "country_iso_2char": "KM",
+        "country_iso_3char": "COM",
+        "country_iso_number": "174",
+        "country_name": "Comoros",
+        "currency_iso_3char": "KMF",
+        "currency_iso_number": "174",
+        "currency_name": "Comoro Franc",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "CG":
+    {
+        "country_iso_2char": "CG",
+        "country_iso_3char": "COG",
+        "country_iso_number": "178",
+        "country_name": "Congo",
+        "currency_iso_3char": "XAF",
+        "currency_iso_number": "950",
+        "currency_name": "CFA Franc BEAC",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "CD":
+    {
+        "country_iso_2char": "CD",
+        "country_iso_3char": "COD",
+        "country_iso_number": "180",
+        "country_name": "Congo, The Democratic Republic Of The",
+        "currency_iso_3char": "CDF",
+        "currency_iso_number": "976",
+        "currency_name": "Franc Congolais",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "CK":
+    {
+        "country_iso_2char": "CK",
+        "country_iso_3char": "COK",
+        "country_iso_number": "184",
+        "country_name": "Cook Islands",
+        "currency_iso_3char": "NZD",
+        "currency_iso_number": "554",
+        "currency_name": "New Zealand Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "CR":
+    {
+        "country_iso_2char": "CR",
+        "country_iso_3char": "CRI",
+        "country_iso_number": "188",
+        "country_name": "Costa Rica",
+        "currency_iso_3char": "CRC",
+        "currency_iso_number": "188",
+        "currency_name": "Costa Rican Colon",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "HR":
+    {
+        "country_iso_2char": "HR",
+        "country_iso_3char": "HRV",
+        "country_iso_number": "191",
+        "country_name": "Croatia",
+        "currency_iso_3char": "HRK",
+        "currency_iso_number": "191",
+        "currency_name": "Croatian Kuna",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "CU":
+    {
+        "country_iso_2char": "CU",
+        "country_iso_3char": "CUB",
+        "country_iso_number": "192",
+        "country_name": "Cuba",
+        "currency_iso_3char": "CUP",
+        "currency_iso_number": "192",
+        "currency_name": "Cuban Peso",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "CY":
+    {
+        "country_iso_2char": "CY",
+        "country_iso_3char": "CYP",
+        "country_iso_number": "196",
+        "country_name": "Cyprus",
+        "currency_iso_3char": "EUR",
+        "currency_iso_number": "978",
+        "currency_name": "Euro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "CZ":
+    {
+        "country_iso_2char": "CZ",
+        "country_iso_3char": "CZE",
+        "country_iso_number": "203",
+        "country_name": "Czech Republic",
+        "currency_iso_3char": "CZK",
+        "currency_iso_number": "203",
+        "currency_name": "Czech Koruna",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "CS":
+    {
+        "country_iso_2char": "CS",
+        "country_iso_3char": "CSK",
+        "country_iso_number": "200",
+        "country_name": "Czechoslovak Socialist Republic",
+        "currency_iso_3char": "CSJ",
+        "currency_iso_number": "",
+        "currency_name": "Czechoslovak koruna A\/53",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "CI":
+    {
+        "country_iso_2char": "CI",
+        "country_iso_3char": "CIV",
+        "country_iso_number": "384",
+        "country_name": "C\u00f4te D'Ivoire",
+        "currency_iso_3char": "XOF",
+        "currency_iso_number": "952",
+        "currency_name": "CFA Franc BCEAO",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "DK":
+    {
+        "country_iso_2char": "DK",
+        "country_iso_3char": "DNK",
+        "country_iso_number": "208",
+        "country_name": "Denmark",
+        "currency_iso_3char": "DKK",
+        "currency_iso_number": "208",
+        "currency_name": "Danish Krone",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "DJ":
+    {
+        "country_iso_2char": "DJ",
+        "country_iso_3char": "DJI",
+        "country_iso_number": "262",
+        "country_name": "Djibouti",
+        "currency_iso_3char": "DJF",
+        "currency_iso_number": "262",
+        "currency_name": "Djibouti Franc",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "DM":
+    {
+        "country_iso_2char": "DM",
+        "country_iso_3char": "DMA",
+        "country_iso_number": "212",
+        "country_name": "Dominica",
+        "currency_iso_3char": "XCD",
+        "currency_iso_number": "951",
+        "currency_name": "East Caribbean Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "DO":
+    {
+        "country_iso_2char": "DO",
+        "country_iso_3char": "DOM",
+        "country_iso_number": "214",
+        "country_name": "Dominican Republic",
+        "currency_iso_3char": "DOP",
+        "currency_iso_number": "214",
+        "currency_name": "Dominican Peso",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "EC":
+    {
+        "country_iso_2char": "EC",
+        "country_iso_3char": "ECU",
+        "country_iso_number": "218",
+        "country_name": "Ecuador",
+        "currency_iso_3char": "USD",
+        "currency_iso_number": "840",
+        "currency_name": "US Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "EG":
+    {
+        "country_iso_2char": "EG",
+        "country_iso_3char": "EGY",
+        "country_iso_number": "818",
+        "country_name": "Egypt",
+        "currency_iso_3char": "EGP",
+        "currency_iso_number": "818",
+        "currency_name": "Egyptian Pound",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "SV":
+    {
+        "country_iso_2char": "SV",
+        "country_iso_3char": "SLV",
+        "country_iso_number": "222",
+        "country_name": "El Salvador",
+        "currency_iso_3char": "USD",
+        "currency_iso_number": "840",
+        "currency_name": "US Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "GQ":
+    {
+        "country_iso_2char": "GQ",
+        "country_iso_3char": "GNQ",
+        "country_iso_number": "226",
+        "country_name": "Equatorial Guinea",
+        "currency_iso_3char": "EQE",
+        "currency_iso_number": "",
+        "currency_name": "Equatorial Guinean ekwele",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "ER":
+    {
+        "country_iso_2char": "ER",
+        "country_iso_3char": "ERI",
+        "country_iso_number": "232",
+        "country_name": "Eritrea",
+        "currency_iso_3char": "ERN",
+        "currency_iso_number": "232",
+        "currency_name": "Nakfa",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "EE":
+    {
+        "country_iso_2char": "EE",
+        "country_iso_3char": "EST",
+        "country_iso_number": "233",
+        "country_name": "Estonia",
+        "currency_iso_3char": "EUR",
+        "currency_iso_number": "978",
+        "currency_name": "Euro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "ET":
+    {
+        "country_iso_2char": "ET",
+        "country_iso_3char": "ETH",
+        "country_iso_number": "231",
+        "country_name": "Ethiopia",
+        "currency_iso_3char": "ETB",
+        "currency_iso_number": "230",
+        "currency_name": "Ethiopian Birr",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "FK":
+    {
+        "country_iso_2char": "FK",
+        "country_iso_3char": "FLK",
+        "country_iso_number": "238",
+        "country_name": "Falkland Islands (Malvinas)",
+        "currency_iso_3char": "FKP",
+        "currency_iso_number": "238",
+        "currency_name": "Falkland Island Pound",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "FO":
+    {
+        "country_iso_2char": "FO",
+        "country_iso_3char": "FRO",
+        "country_iso_number": "234",
+        "country_name": "Faroe Islands",
+        "currency_iso_3char": "DKK",
+        "currency_iso_number": "208",
+        "currency_name": "Danish Krone",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "FJ":
+    {
+        "country_iso_2char": "FJ",
+        "country_iso_3char": "FJI",
+        "country_iso_number": "242",
+        "country_name": "Fiji",
+        "currency_iso_3char": "FJD",
+        "currency_iso_number": "242",
+        "currency_name": "Fiji Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "FI":
+    {
+        "country_iso_2char": "FI",
+        "country_iso_3char": "FIN",
+        "country_iso_number": "246",
+        "country_name": "Finland",
+        "currency_iso_3char": "EUR",
+        "currency_iso_number": "978",
+        "currency_name": "Euro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "FR":
+    {
+        "country_iso_2char": "FR",
+        "country_iso_3char": "FRA",
+        "country_iso_number": "250",
+        "country_name": "France",
+        "currency_iso_3char": "EUR",
+        "currency_iso_number": "978",
+        "currency_name": "Euro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "GF":
+    {
+        "country_iso_2char": "GF",
+        "country_iso_3char": "GUF",
+        "country_iso_number": "254",
+        "country_name": "French Guiana",
+        "currency_iso_3char": "EUR",
+        "currency_iso_number": "978",
+        "currency_name": "Euro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "PF":
+    {
+        "country_iso_2char": "PF",
+        "country_iso_3char": "PYF",
+        "country_iso_number": "258",
+        "country_name": "French Polynesia",
+        "currency_iso_3char": "XPF",
+        "currency_iso_number": "953",
+        "currency_name": "CFP Franc",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "TF":
+    {
+        "country_iso_2char": "TF",
+        "country_iso_3char": "ATF",
+        "country_iso_number": "260",
+        "country_name": "French Southern Territories",
+        "currency_iso_3char": "EUR",
+        "currency_iso_number": "978",
+        "currency_name": "Euro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "GA":
+    {
+        "country_iso_2char": "GA",
+        "country_iso_3char": "GAB",
+        "country_iso_number": "266",
+        "country_name": "Gabon",
+        "currency_iso_3char": "XAF",
+        "currency_iso_number": "950",
+        "currency_name": "CFA Franc BEAC",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "GM":
+    {
+        "country_iso_2char": "GM",
+        "country_iso_3char": "GMB",
+        "country_iso_number": "270",
+        "country_name": "Gambia",
+        "currency_iso_3char": "GMD",
+        "currency_iso_number": "270",
+        "currency_name": "Dalasi",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "GE":
+    {
+        "country_iso_2char": "GE",
+        "country_iso_3char": "GEO",
+        "country_iso_number": "268",
+        "country_name": "Georgia",
+        "currency_iso_3char": "GEL",
+        "currency_iso_number": "981",
+        "currency_name": "Lari",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "DD":
+    {
+        "country_iso_2char": "DD",
+        "country_iso_3char": "DDR",
+        "country_iso_number": "278",
+        "country_name": "German Democratic Republic",
+        "currency_iso_3char": "DDM",
+        "currency_iso_number": "278",
+        "currency_name": "East German Mark of the GDR (East Germany)",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "DE":
+    {
+        "country_iso_2char": "DE",
+        "country_iso_3char": "DEU",
+        "country_iso_number": "276",
+        "country_name": "Germany",
+        "currency_iso_3char": "EUR",
+        "currency_iso_number": "978",
+        "currency_name": "Euro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "GH":
+    {
+        "country_iso_2char": "GH",
+        "country_iso_3char": "GHA",
+        "country_iso_number": "288",
+        "country_name": "Ghana",
+        "currency_iso_3char": "GHC",
+        "currency_iso_number": "",
+        "currency_name": "Ghanaian cedi",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "GI":
+    {
+        "country_iso_2char": "GI",
+        "country_iso_3char": "GIB",
+        "country_iso_number": "292",
+        "country_name": "Gibraltar",
+        "currency_iso_3char": "GIP",
+        "currency_iso_number": "292",
+        "currency_name": "Gibraltar Pound",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "GR":
+    {
+        "country_iso_2char": "GR",
+        "country_iso_3char": "GRC",
+        "country_iso_number": "300",
+        "country_name": "Greece",
+        "currency_iso_3char": "GRD",
+        "currency_iso_number": "300",
+        "currency_name": "Greek Drachma",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "GL":
+    {
+        "country_iso_2char": "GL",
+        "country_iso_3char": "GRL",
+        "country_iso_number": "304",
+        "country_name": "Greenland",
+        "currency_iso_3char": "DKK",
+        "currency_iso_number": "208",
+        "currency_name": "Danish Krone",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "GD":
+    {
+        "country_iso_2char": "GD",
+        "country_iso_3char": "GRD",
+        "country_iso_number": "308",
+        "country_name": "Grenada",
+        "currency_iso_3char": "XCD",
+        "currency_iso_number": "951",
+        "currency_name": "East Caribbean Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "GP":
+    {
+        "country_iso_2char": "GP",
+        "country_iso_3char": "GLP",
+        "country_iso_number": "312",
+        "country_name": "Guadeloupe",
+        "currency_iso_3char": "EUR",
+        "currency_iso_number": "978",
+        "currency_name": "Euro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "GU":
+    {
+        "country_iso_2char": "GU",
+        "country_iso_3char": "GUM",
+        "country_iso_number": "316",
+        "country_name": "Guam",
+        "currency_iso_3char": "USD",
+        "currency_iso_number": "840",
+        "currency_name": "US Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "GT":
+    {
+        "country_iso_2char": "GT",
+        "country_iso_3char": "GTM",
+        "country_iso_number": "320",
+        "country_name": "Guatemala",
+        "currency_iso_3char": "GTQ",
+        "currency_iso_number": "320",
+        "currency_name": "Quetzal",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "GN":
+    {
+        "country_iso_2char": "GN",
+        "country_iso_3char": "GIN",
+        "country_iso_number": "324",
+        "country_name": "Guinea",
+        "currency_iso_3char": "GNE",
+        "currency_iso_number": "",
+        "currency_name": "Guinean syli",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "GW":
+    {
+        "country_iso_2char": "GW",
+        "country_iso_3char": "GNB",
+        "country_iso_number": "624",
+        "country_name": "Guinea-Bissau",
+        "currency_iso_3char": "GWP",
+        "currency_iso_number": "624",
+        "currency_name": "Guinea-Bissau Peso",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "GY":
+    {
+        "country_iso_2char": "GY",
+        "country_iso_3char": "GUY",
+        "country_iso_number": "328",
+        "country_name": "Guyana",
+        "currency_iso_3char": "GYD",
+        "currency_iso_number": "328",
+        "currency_name": "Guyana Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "HT":
+    {
+        "country_iso_2char": "HT",
+        "country_iso_3char": "HTI",
+        "country_iso_number": "332",
+        "country_name": "Haiti",
+        "currency_iso_3char": "USD",
+        "currency_iso_number": "840",
+        "currency_name": "US Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "HM":
+    {
+        "country_iso_2char": "HM",
+        "country_iso_3char": "HMD",
+        "country_iso_number": "334",
+        "country_name": "Heard and McDonald Islands",
+        "currency_iso_3char": "AUD",
+        "currency_iso_number": "036",
+        "currency_name": "Australian Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "VA":
+    {
+        "country_iso_2char": "VA",
+        "country_iso_3char": "VAT",
+        "country_iso_number": "336",
+        "country_name": "Holy See (Vatican City State)",
+        "currency_iso_3char": "EUR",
+        "currency_iso_number": "978",
+        "currency_name": "Euro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "HN":
+    {
+        "country_iso_2char": "HN",
+        "country_iso_3char": "HND",
+        "country_iso_number": "340",
+        "country_name": "Honduras",
+        "currency_iso_3char": "HNL",
+        "currency_iso_number": "340",
+        "currency_name": "Lempira",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "HK":
+    {
+        "country_iso_2char": "HK",
+        "country_iso_3char": "HKG",
+        "country_iso_number": "344",
+        "country_name": "Hong Kong",
+        "currency_iso_3char": "HKD",
+        "currency_iso_number": "344",
+        "currency_name": "Hong Kong Dollar",
+        "state_name": "State\/Province",
+        "states":
+        {
+            "HONG KONG": "Hong Kong Island",
+            "KOWLOON": "Kowloon",
+            "NEW TERRITORIES": "New Territories"
+        }
+    },
+    "HU":
+    {
+        "country_iso_2char": "HU",
+        "country_iso_3char": "HUN",
+        "country_iso_number": "348",
+        "country_name": "Hungary",
+        "currency_iso_3char": "HUF",
+        "currency_iso_number": "348",
+        "currency_name": "Forint",
+        "state_name": "Counties",
+        "states":
+        {
+            "BK": "B\u00e1cs-Kiskun",
+            "BE": "B\u00e9k\u00e9s",
+            "BA": "Baranya",
+            "BZ": "Borsod-Aba\u00faj-Zempl\u00e9n",
+            "BU": "Budapest",
+            "CS": "Csongr\u00e1d",
+            "FE": "Fej\u00e9r",
+            "GS": "Gy\u0151r-Moson-Sopron",
+            "HB": "Hajd\u00fa-Bihar",
+            "HE": "Heves",
+            "JN": "J\u00e1sz-Nagykun-Szolnok",
+            "KE": "Kom\u00e1rom-Esztergom",
+            "NO": "N\u00f3gr\u00e1d",
+            "PE": "Pest",
+            "SO": "Somogy",
+            "SZ": "Szabolcs-Szatm\u00e1r-Bereg",
+            "TO": "Tolna",
+            "VA": "Vas",
+            "VE": "Veszpr\u00e9m",
+            "ZA": "Zala"
+        }
+    },
+    "IS":
+    {
+        "country_iso_2char": "IS",
+        "country_iso_3char": "ISL",
+        "country_iso_number": "352",
+        "country_name": "Iceland",
+        "currency_iso_3char": "ISJ",
+        "currency_iso_number": "",
+        "currency_name": "Icelandic old krona",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "IN":
+    {
+        "country_iso_2char": "IN",
+        "country_iso_3char": "IND",
+        "country_iso_number": "356",
+        "country_name": "India",
+        "currency_iso_3char": "INR",
+        "currency_iso_number": "356",
+        "currency_name": "Indian Rupee",
+        "state_name": "State\/Territory",
+        "states":
+        {
+            "AP": "Andra Pradesh",
+            "AR": "Arunachal Pradesh",
+            "AS": "Assam",
+            "BR": "Bihar",
+            "CT": "Chhattisgarh",
+            "GA": "Goa",
+            "GJ": "Gujarat",
+            "HR": "Haryana",
+            "HP": "Himachal Pradesh",
+            "JK": "Jammu and Kashmir",
+            "JH": "Jharkhand",
+            "KA": "Karnataka",
+            "KL": "Kerala",
+            "MP": "Madhya Pradesh",
+            "MH": "Maharashtra",
+            "MN": "Manipur",
+            "ML": "Meghalaya",
+            "MZ": "Mizoram",
+            "NL": "Nagaland",
+            "OR": "Orissa",
+            "PB": "Punjab",
+            "RJ": "Rajasthan",
+            "SK": "Sikkim",
+            "TN": "Tamil Nadu",
+            "TR": "Tripura",
+            "UT": "Uttaranchal",
+            "UP": "Uttar Pradesh",
+            "WB": "West Bengal",
+            "AN": "Andaman and Nicobar Islands",
+            "CH": "Chandigarh",
+            "DN": "Dadar and Nagar Haveli",
+            "DD": "Daman and Diu",
+            "DL": "Delhi",
+            "LD": "Lakshadeep",
+            "PY": "Pondicherry (Puducherry)"
+        }
+    },
+    "ID":
+    {
+        "country_iso_2char": "ID",
+        "country_iso_3char": "IDN",
+        "country_iso_number": "360",
+        "country_name": "Indonesia",
+        "currency_iso_3char": "IDR",
+        "currency_iso_number": "360",
+        "currency_name": "Rupiah",
+        "state_name": "Province",
+        "states":
+        {
+            "AC": "Daerah Istimewa Aceh",
+            "SU": "Sumatera Utara",
+            "SB": "Sumatera Barat",
+            "RI": "Riau",
+            "KR": "Kepulauan Riau",
+            "JA": "Jambi",
+            "SS": "Sumatera Selatan",
+            "BB": "Bangka Belitung",
+            "BE": "Bengkulu",
+            "LA": "Lampung",
+            "JK": "DKI Jakarta",
+            "JB": "Jawa Barat",
+            "BT": "Banten",
+            "JT": "Jawa Tengah",
+            "JI": "Jawa Timur",
+            "YO": "Daerah Istimewa Yogyakarta",
+            "BA": "Bali",
+            "NB": "Nusa Tenggara Barat",
+            "NT": "Nusa Tenggara Timur",
+            "KB": "Kalimantan Barat",
+            "KT": "Kalimantan Tengah",
+            "KI": "Kalimantan Timur",
+            "KS": "Kalimantan Selatan",
+            "KU": "Kalimantan Utara",
+            "SA": "Sulawesi Utara",
+            "ST": "Sulawesi Tengah",
+            "SG": "Sulawesi Tenggara",
+            "SR": "Sulawesi Barat",
+            "SN": "Sulawesi Selatan",
+            "GO": "Gorontalo",
+            "MA": "Maluku",
+            "MU": "Maluku Utara",
+            "PA": "Papua",
+            "PB": "Papua Barat"
+        }
+    },
+    "IR":
+    {
+        "country_iso_2char": "IR",
+        "country_iso_3char": "IRN",
+        "country_iso_number": "364",
+        "country_name": "Iran (Islamic Republic Of)",
+        "currency_iso_3char": "IRR",
+        "currency_iso_number": "364",
+        "currency_name": "Iranian Rial",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "IQ":
+    {
+        "country_iso_2char": "IQ",
+        "country_iso_3char": "IRQ",
+        "country_iso_number": "368",
+        "country_name": "Iraq",
+        "currency_iso_3char": "IQD",
+        "currency_iso_number": "368",
+        "currency_name": "Iraqi Dinar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "IE":
+    {
+        "country_iso_2char": "IE",
+        "country_iso_3char": "IRL",
+        "country_iso_number": "372",
+        "country_name": "Ireland",
+        "currency_iso_3char": "EUR",
+        "currency_iso_number": "978",
+        "currency_name": "Euro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "IL":
+    {
+        "country_iso_2char": "IL",
+        "country_iso_3char": "ISR",
+        "country_iso_number": "376",
+        "country_name": "Israel",
+        "currency_iso_3char": "ILS",
+        "currency_iso_number": "376",
+        "currency_name": "New Israeli Sheqel",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "IT":
+    {
+        "country_iso_2char": "IT",
+        "country_iso_3char": "ITA",
+        "country_iso_number": "380",
+        "country_name": "Italy",
+        "currency_iso_3char": "EUR",
+        "currency_iso_number": "978",
+        "currency_name": "Euro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "JM":
+    {
+        "country_iso_2char": "JM",
+        "country_iso_3char": "JAM",
+        "country_iso_number": "388",
+        "country_name": "Jamaica",
+        "currency_iso_3char": "JMD",
+        "currency_iso_number": "388",
+        "currency_name": "Jamaican Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "JP":
+    {
+        "country_iso_2char": "JP",
+        "country_iso_3char": "JPN",
+        "country_iso_number": "392",
+        "country_name": "Japan",
+        "currency_iso_3char": "JPY",
+        "currency_iso_number": "392",
+        "currency_name": "Yen",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "JO":
+    {
+        "country_iso_2char": "JO",
+        "country_iso_3char": "JOR",
+        "country_iso_number": "400",
+        "country_name": "Jordan",
+        "currency_iso_3char": "JOD",
+        "currency_iso_number": "400",
+        "currency_name": "Jordanian Dinar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "KZ":
+    {
+        "country_iso_2char": "KZ",
+        "country_iso_3char": "KAZ",
+        "country_iso_number": "398",
+        "country_name": "Kazakhstan",
+        "currency_iso_3char": "KZT",
+        "currency_iso_number": "398",
+        "currency_name": "Tenge",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "KE":
+    {
+        "country_iso_2char": "KE",
+        "country_iso_3char": "KEN",
+        "country_iso_number": "404",
+        "country_name": "Kenya",
+        "currency_iso_3char": "KES",
+        "currency_iso_number": "404",
+        "currency_name": "Kenyan Shilling",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "KI":
+    {
+        "country_iso_2char": "KI",
+        "country_iso_3char": "KIR",
+        "country_iso_number": "296",
+        "country_name": "Kiribati",
+        "currency_iso_3char": "AUD",
+        "currency_iso_number": "036",
+        "currency_name": "Australian Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "KP":
+    {
+        "country_iso_2char": "KP",
+        "country_iso_3char": "PRK",
+        "country_iso_number": "408",
+        "country_name": "Korea, Democratic People's Republic Of",
+        "currency_iso_3char": "KPW",
+        "currency_iso_number": "408",
+        "currency_name": "North Korean Won",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "KR":
+    {
+        "country_iso_2char": "KR",
+        "country_iso_3char": "KOR",
+        "country_iso_number": "410",
+        "country_name": "Korea, Republic of",
+        "currency_iso_3char": "KRW",
+        "currency_iso_number": "410",
+        "currency_name": "Won",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "KW":
+    {
+        "country_iso_2char": "KW",
+        "country_iso_3char": "KWT",
+        "country_iso_number": "414",
+        "country_name": "Kuwait",
+        "currency_iso_3char": "KWD",
+        "currency_iso_number": "414",
+        "currency_name": "Kuwaiti Dinar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "KG":
+    {
+        "country_iso_2char": "KG",
+        "country_iso_3char": "KGZ",
+        "country_iso_number": "417",
+        "country_name": "Kyrgyzstan",
+        "currency_iso_3char": "KGS",
+        "currency_iso_number": "417",
+        "currency_name": "Som",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "LA":
+    {
+        "country_iso_2char": "LA",
+        "country_iso_3char": "LAO",
+        "country_iso_number": "418",
+        "country_name": "Lao People's Democratic Republic",
+        "currency_iso_3char": "LAJ",
+        "currency_iso_number": "",
+        "currency_name": "Lao kip",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "LV":
+    {
+        "country_iso_2char": "LV",
+        "country_iso_3char": "LVA",
+        "country_iso_number": "428",
+        "country_name": "Latvia",
+        "currency_iso_3char": "LVL",
+        "currency_iso_number": "428",
+        "currency_name": "Latvian Lats",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "LB":
+    {
+        "country_iso_2char": "LB",
+        "country_iso_3char": "LBN",
+        "country_iso_number": "422",
+        "country_name": "Lebanon",
+        "currency_iso_3char": "LBP",
+        "currency_iso_number": "422",
+        "currency_name": "Lebanese Pound",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "LS":
+    {
+        "country_iso_2char": "LS",
+        "country_iso_3char": "LSO",
+        "country_iso_number": "426",
+        "country_name": "Lesotho",
+        "currency_iso_3char": "ZAR",
+        "currency_iso_number": "710",
+        "currency_name": "Rand",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "LR":
+    {
+        "country_iso_2char": "LR",
+        "country_iso_3char": "LBR",
+        "country_iso_number": "430",
+        "country_name": "Liberia",
+        "currency_iso_3char": "LRD",
+        "currency_iso_number": "430",
+        "currency_name": "Liberian Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "LY":
+    {
+        "country_iso_2char": "LY",
+        "country_iso_3char": "LBY",
+        "country_iso_number": "434",
+        "country_name": "Libyan Arab Jamahiriya",
+        "currency_iso_3char": "LYD",
+        "currency_iso_number": "434",
+        "currency_name": "Libyan Dinar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "LI":
+    {
+        "country_iso_2char": "LI",
+        "country_iso_3char": "LIE",
+        "country_iso_number": "438",
+        "country_name": "Liechtenstein",
+        "currency_iso_3char": "CHF",
+        "currency_iso_number": "756",
+        "currency_name": "Swiss Franc",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "LT":
+    {
+        "country_iso_2char": "LT",
+        "country_iso_3char": "LTU",
+        "country_iso_number": "440",
+        "country_name": "Lithuania",
+        "currency_iso_3char": "LTL",
+        "currency_iso_number": "440",
+        "currency_name": "Lithuanian Litas",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "LU":
+    {
+        "country_iso_2char": "LU",
+        "country_iso_3char": "LUX",
+        "country_iso_number": "442",
+        "country_name": "Luxembourg",
+        "currency_iso_3char": "EUR",
+        "currency_iso_number": "978",
+        "currency_name": "Euro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "MO":
+    {
+        "country_iso_2char": "MO",
+        "country_iso_3char": "MAC",
+        "country_iso_number": "446",
+        "country_name": "Macao",
+        "currency_iso_3char": "MOP",
+        "currency_iso_number": "446",
+        "currency_name": "Pataca",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "MK":
+    {
+        "country_iso_2char": "MK",
+        "country_iso_3char": "MKD",
+        "country_iso_number": "807",
+        "country_name": "Macedonia, the Former Yugoslav Republic Of",
+        "currency_iso_3char": "MKN",
+        "currency_iso_number": "",
+        "currency_name": "Former Yugoslav Republic of Macedonia denar A\/93",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "MG":
+    {
+        "country_iso_2char": "MG",
+        "country_iso_3char": "MDG",
+        "country_iso_number": "450",
+        "country_name": "Madagascar",
+        "currency_iso_3char": "MGF",
+        "currency_iso_number": "450",
+        "currency_name": "Malagasy franc",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "MW":
+    {
+        "country_iso_2char": "MW",
+        "country_iso_3char": "MWI",
+        "country_iso_number": "454",
+        "country_name": "Malawi",
+        "currency_iso_3char": "MWK",
+        "currency_iso_number": "454",
+        "currency_name": "Kwacha",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "MY":
+    {
+        "country_iso_2char": "MY",
+        "country_iso_3char": "MYS",
+        "country_iso_number": "458",
+        "country_name": "Malaysia",
+        "currency_iso_3char": "MYR",
+        "currency_iso_number": "458",
+        "currency_name": "Malaysian Ringgit",
+        "state_name": "State\/Territory",
+        "states":
+        {
+            "JHR": "Johor",
+            "KDH": "Kedah",
+            "KTN": "Kelantan",
+            "MLK": "Melaka",
+            "NSN": "Negeri Sembilan",
+            "PHG": "Pahang",
+            "PRK": "Perak",
+            "PLS": "Perlis",
+            "PNG": "Pulau Pinang",
+            "SBH": "Sabah",
+            "SWK": "Sarawak",
+            "SGR": "Selangor",
+            "TRG": "Terengganu",
+            "KUL": "W.P. Kuala Lumpur",
+            "LBN": "W.P. Labuan",
+            "PJY": "W.P. Putrajaya"
+        }
+    },
+    "MV":
+    {
+        "country_iso_2char": "MV",
+        "country_iso_3char": "MDV",
+        "country_iso_number": "462",
+        "country_name": "Maldives",
+        "currency_iso_3char": "MVR",
+        "currency_iso_number": "462",
+        "currency_name": "Rufiyaa",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "ML":
+    {
+        "country_iso_2char": "ML",
+        "country_iso_3char": "MLI",
+        "country_iso_number": "466",
+        "country_name": "Mali",
+        "currency_iso_3char": "MAF",
+        "currency_iso_number": "",
+        "currency_name": "Mali franc",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "MT":
+    {
+        "country_iso_2char": "MT",
+        "country_iso_3char": "MLT",
+        "country_iso_number": "470",
+        "country_name": "Malta",
+        "currency_iso_3char": "EUR",
+        "currency_iso_number": "978",
+        "currency_name": "Euro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "MH":
+    {
+        "country_iso_2char": "MH",
+        "country_iso_3char": "MHL",
+        "country_iso_number": "584",
+        "country_name": "Marshall Islands",
+        "currency_iso_3char": "USD",
+        "currency_iso_number": "840",
+        "currency_name": "US Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "MQ":
+    {
+        "country_iso_2char": "MQ",
+        "country_iso_3char": "MTQ",
+        "country_iso_number": "474",
+        "country_name": "Martinique",
+        "currency_iso_3char": "EUR",
+        "currency_iso_number": "978",
+        "currency_name": "Euro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "MR":
+    {
+        "country_iso_2char": "MR",
+        "country_iso_3char": "MRT",
+        "country_iso_number": "478",
+        "country_name": "Mauritania",
+        "currency_iso_3char": "MRO",
+        "currency_iso_number": "478",
+        "currency_name": "Ouguiya",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "MU":
+    {
+        "country_iso_2char": "MU",
+        "country_iso_3char": "MUS",
+        "country_iso_number": "480",
+        "country_name": "Mauritius",
+        "currency_iso_3char": "MUR",
+        "currency_iso_number": "480",
+        "currency_name": "Mauritius Rupee",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "YT":
+    {
+        "country_iso_2char": "YT",
+        "country_iso_3char": "MYT",
+        "country_iso_number": "175",
+        "country_name": "Mayotte",
+        "currency_iso_3char": "EUR",
+        "currency_iso_number": "978",
+        "currency_name": "Euro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "MX":
+    {
+        "country_iso_2char": "MX",
+        "country_iso_3char": "MEX",
+        "country_iso_number": "484",
+        "country_name": "Mexico",
+        "currency_iso_3char": "MXV",
+        "currency_iso_number": "979",
+        "currency_name": "Mexican Unidad de Inversion (UDI)",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "FM":
+    {
+        "country_iso_2char": "FM",
+        "country_iso_3char": "FSM",
+        "country_iso_number": "583",
+        "country_name": "Micronesia, Federated States Of",
+        "currency_iso_3char": "USD",
+        "currency_iso_number": "840",
+        "currency_name": "US Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "MD":
+    {
+        "country_iso_2char": "MD",
+        "country_iso_3char": "MDA",
+        "country_iso_number": "498",
+        "country_name": "Moldova",
+        "currency_iso_3char": "MDL",
+        "currency_iso_number": "498",
+        "currency_name": "Moldovan Leu",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "MC":
+    {
+        "country_iso_2char": "MC",
+        "country_iso_3char": "MCO",
+        "country_iso_number": "492",
+        "country_name": "Monaco",
+        "currency_iso_3char": "EUR",
+        "currency_iso_number": "978",
+        "currency_name": "Euro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "MN":
+    {
+        "country_iso_2char": "MN",
+        "country_iso_3char": "MNG",
+        "country_iso_number": "496",
+        "country_name": "Mongolia",
+        "currency_iso_3char": "MNT",
+        "currency_iso_number": "496",
+        "currency_name": "Tugrik",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "ME":
+    {
+        "country_iso_2char": "ME",
+        "country_iso_3char": "MNE",
+        "country_iso_number": "499",
+        "country_name": "Montenegro",
+        "currency_iso_3char": "EUR",
+        "currency_iso_number": "978",
+        "currency_name": "Euro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "MS":
+    {
+        "country_iso_2char": "MS",
+        "country_iso_3char": "MSR",
+        "country_iso_number": "500",
+        "country_name": "Montserrat",
+        "currency_iso_3char": "XCD",
+        "currency_iso_number": "951",
+        "currency_name": "East Caribbean Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "MA":
+    {
+        "country_iso_2char": "MA",
+        "country_iso_3char": "MAR",
+        "country_iso_number": "504",
+        "country_name": "Morocco",
+        "currency_iso_3char": "MAD",
+        "currency_iso_number": "504",
+        "currency_name": "Moroccan Dirham",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "MZ":
+    {
+        "country_iso_2char": "MZ",
+        "country_iso_3char": "MOZ",
+        "country_iso_number": "508",
+        "country_name": "Mozambique",
+        "currency_iso_3char": "MZM",
+        "currency_iso_number": "508",
+        "currency_name": "Mozambican metical",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "MM":
+    {
+        "country_iso_2char": "MM",
+        "country_iso_3char": "MMR",
+        "country_iso_number": "104",
+        "country_name": "Myanmar",
+        "currency_iso_3char": "MMK",
+        "currency_iso_number": "104",
+        "currency_name": "Kyat",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "NA":
+    {
+        "country_iso_2char": "NA",
+        "country_iso_3char": "NAM",
+        "country_iso_number": "516",
+        "country_name": "Namibia",
+        "currency_iso_3char": "ZAR",
+        "currency_iso_number": "710",
+        "currency_name": "Rand",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "NR":
+    {
+        "country_iso_2char": "NR",
+        "country_iso_3char": "NRU",
+        "country_iso_number": "520",
+        "country_name": "Nauru",
+        "currency_iso_3char": "AUD",
+        "currency_iso_number": "036",
+        "currency_name": "Australian Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "NP":
+    {
+        "country_iso_2char": "NP",
+        "country_iso_3char": "NPL",
+        "country_iso_number": "524",
+        "country_name": "Nepal",
+        "currency_iso_3char": "NPR",
+        "currency_iso_number": "524",
+        "currency_name": "Nepalese Rupee",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "NL":
+    {
+        "country_iso_2char": "NL",
+        "country_iso_3char": "NLD",
+        "country_iso_number": "528",
+        "country_name": "Netherlands",
+        "currency_iso_3char": "EUR",
+        "currency_iso_number": "978",
+        "currency_name": "Euro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "AN":
+    {
+        "country_iso_2char": "AN",
+        "country_iso_3char": "ANT",
+        "country_iso_number": "530",
+        "country_name": "Netherlands Antilles",
+        "currency_iso_3char": "EUR",
+        "currency_iso_number": "978",
+        "currency_name": "Euro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "NC":
+    {
+        "country_iso_2char": "NC",
+        "country_iso_3char": "NCL",
+        "country_iso_number": "540",
+        "country_name": "New Caledonia",
+        "currency_iso_3char": "XPF",
+        "currency_iso_number": "953",
+        "currency_name": "CFP Franc",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "NZ":
+    {
+        "country_iso_2char": "NZ",
+        "country_iso_3char": "NZL",
+        "country_iso_number": "554",
+        "country_name": "New Zealand",
+        "currency_iso_3char": "NZD",
+        "currency_iso_number": "554",
+        "currency_name": "New Zealand Dollar",
+        "state_name": "State\/Territory",
+        "states":
+        {
+            "AK": "Auckland",
+            "BP": "Bay of Plenty",
+            "CT": "Canterbury",
+            "HB": "Hawke&rsquo;s Bay",
+            "MW": "Manawatu-Wanganui",
+            "MB": "Marlborough",
+            "NS": "Nelson",
+            "NL": "Northland",
+            "OT": "Otago",
+            "SL": "Southland",
+            "TK": "Taranaki",
+            "TM": "Tasman",
+            "WA": "Waikato",
+            "WE": "Wellington",
+            "WC": "West Coast"
+        }
+    },
+    "NI":
+    {
+        "country_iso_2char": "NI",
+        "country_iso_3char": "NIC",
+        "country_iso_number": "558",
+        "country_name": "Nicaragua",
+        "currency_iso_3char": "NIO",
+        "currency_iso_number": "558",
+        "currency_name": "Cordoba Oro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "NE":
+    {
+        "country_iso_2char": "NE",
+        "country_iso_3char": "NER",
+        "country_iso_number": "562",
+        "country_name": "Niger",
+        "currency_iso_3char": "XOF",
+        "currency_iso_number": "952",
+        "currency_name": "CFA Franc BCEAO",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "NG":
+    {
+        "country_iso_2char": "NG",
+        "country_iso_3char": "NGA",
+        "country_iso_number": "566",
+        "country_name": "Nigeria",
+        "currency_iso_3char": "NGN",
+        "currency_iso_number": "566",
+        "currency_name": "Naira",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "NU":
+    {
+        "country_iso_2char": "NU",
+        "country_iso_3char": "NIU",
+        "country_iso_number": "570",
+        "country_name": "Niue",
+        "currency_iso_3char": "NZD",
+        "currency_iso_number": "554",
+        "currency_name": "New Zealand Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "NF":
+    {
+        "country_iso_2char": "NF",
+        "country_iso_3char": "NFK",
+        "country_iso_number": "574",
+        "country_name": "Norfolk Island",
+        "currency_iso_3char": "AUD",
+        "currency_iso_number": "036",
+        "currency_name": "Australian Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "MP":
+    {
+        "country_iso_2char": "MP",
+        "country_iso_3char": "MNP",
+        "country_iso_number": "580",
+        "country_name": "Northern Mariana Islands",
+        "currency_iso_3char": "USD",
+        "currency_iso_number": "840",
+        "currency_name": "US Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "NO":
+    {
+        "country_iso_2char": "NO",
+        "country_iso_3char": "NOR",
+        "country_iso_number": "578",
+        "country_name": "Norway",
+        "currency_iso_3char": "NOK",
+        "currency_iso_number": "578",
+        "currency_name": "Norwegian Krone",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "OM":
+    {
+        "country_iso_2char": "OM",
+        "country_iso_3char": "OMN",
+        "country_iso_number": "512",
+        "country_name": "Oman",
+        "currency_iso_3char": "OMR",
+        "currency_iso_number": "512",
+        "currency_name": "Rial Omani",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "PK":
+    {
+        "country_iso_2char": "PK",
+        "country_iso_3char": "PAK",
+        "country_iso_number": "586",
+        "country_name": "Pakistan",
+        "currency_iso_3char": "PKR",
+        "currency_iso_number": "586",
+        "currency_name": "Pakistan Rupee",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "PW":
+    {
+        "country_iso_2char": "PW",
+        "country_iso_3char": "PLW",
+        "country_iso_number": "585",
+        "country_name": "Palau",
+        "currency_iso_3char": "USD",
+        "currency_iso_number": "840",
+        "currency_name": "US Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "PA":
+    {
+        "country_iso_2char": "PA",
+        "country_iso_3char": "PAN",
+        "country_iso_number": "590",
+        "country_name": "Panama",
+        "currency_iso_3char": "USD",
+        "currency_iso_number": "840",
+        "currency_name": "US Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "PG":
+    {
+        "country_iso_2char": "PG",
+        "country_iso_3char": "PNG",
+        "country_iso_number": "598",
+        "country_name": "Papua New Guinea",
+        "currency_iso_3char": "PGK",
+        "currency_iso_number": "598",
+        "currency_name": "Kina",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "PY":
+    {
+        "country_iso_2char": "PY",
+        "country_iso_3char": "PRY",
+        "country_iso_number": "600",
+        "country_name": "Paraguay",
+        "currency_iso_3char": "PYG",
+        "currency_iso_number": "600",
+        "currency_name": "Guarani",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "YD":
+    {
+        "country_iso_2char": "YD",
+        "country_iso_3char": "YMD",
+        "country_iso_number": "720",
+        "country_name": "People's Democratic Republic of Yemen",
+        "currency_iso_3char": "YDD",
+        "currency_iso_number": "720",
+        "currency_name": "South Yemeni dinar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "PE":
+    {
+        "country_iso_2char": "PE",
+        "country_iso_3char": "PER",
+        "country_iso_number": "604",
+        "country_name": "Peru",
+        "currency_iso_3char": "PEH",
+        "currency_iso_number": "",
+        "currency_name": "Peruvian sol",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "PH":
+    {
+        "country_iso_2char": "PH",
+        "country_iso_3char": "PHL",
+        "country_iso_number": "608",
+        "country_name": "Philippines",
+        "currency_iso_3char": "PHP",
+        "currency_iso_number": "608",
+        "currency_name": "Philippine Peso",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "PN":
+    {
+        "country_iso_2char": "PN",
+        "country_iso_3char": "PCN",
+        "country_iso_number": "612",
+        "country_name": "Pitcairn",
+        "currency_iso_3char": "NZD",
+        "currency_iso_number": "554",
+        "currency_name": "New Zealand Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "PL":
+    {
+        "country_iso_2char": "PL",
+        "country_iso_3char": "POL",
+        "country_iso_number": "616",
+        "country_name": "Poland",
+        "currency_iso_3char": "PLN",
+        "currency_iso_number": "985",
+        "currency_name": "Zloty",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "PT":
+    {
+        "country_iso_2char": "PT",
+        "country_iso_3char": "PRT",
+        "country_iso_number": "620",
+        "country_name": "Portugal",
+        "currency_iso_3char": "EUR",
+        "currency_iso_number": "978",
+        "currency_name": "Euro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "PR":
+    {
+        "country_iso_2char": "PR",
+        "country_iso_3char": "PRI",
+        "country_iso_number": "630",
+        "country_name": "Puerto Rico",
+        "currency_iso_3char": "USD",
+        "currency_iso_number": "840",
+        "currency_name": "US Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "QA":
+    {
+        "country_iso_2char": "QA",
+        "country_iso_3char": "QAT",
+        "country_iso_number": "634",
+        "country_name": "Qatar",
+        "currency_iso_3char": "QAR",
+        "currency_iso_number": "634",
+        "currency_name": "Qatari Rial",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "RO":
+    {
+        "country_iso_2char": "RO",
+        "country_iso_3char": "ROU",
+        "country_iso_number": "642",
+        "country_name": "Romania",
+        "currency_iso_3char": "ROK",
+        "currency_iso_number": "",
+        "currency_name": "Romanian leu A\/52",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "RU":
+    {
+        "country_iso_2char": "RU",
+        "country_iso_3char": "RUS",
+        "country_iso_number": "643",
+        "country_name": "Russian Federation",
+        "currency_iso_3char": "RUB",
+        "currency_iso_number": "643",
+        "currency_name": "Russian Ruble",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "RW":
+    {
+        "country_iso_2char": "RW",
+        "country_iso_3char": "RWA",
+        "country_iso_number": "646",
+        "country_name": "Rwanda",
+        "currency_iso_3char": "RWF",
+        "currency_iso_number": "646",
+        "currency_name": "Rwanda Franc",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "RE":
+    {
+        "country_iso_2char": "RE",
+        "country_iso_3char": "REU",
+        "country_iso_number": "638",
+        "country_name": "R\ufffd\ufffdunion",
+        "currency_iso_3char": "EUR",
+        "currency_iso_number": "978",
+        "currency_name": "Euro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "SH":
+    {
+        "country_iso_2char": "SH",
+        "country_iso_3char": "SHN",
+        "country_iso_number": "654",
+        "country_name": "Saint Helena",
+        "currency_iso_3char": "SHP",
+        "currency_iso_number": "654",
+        "currency_name": "Saint Helena Pound",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "KN":
+    {
+        "country_iso_2char": "KN",
+        "country_iso_3char": "KNA",
+        "country_iso_number": "659",
+        "country_name": "Saint Kitts And Nevis",
+        "currency_iso_3char": "XCD",
+        "currency_iso_number": "951",
+        "currency_name": "East Caribbean Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "LC":
+    {
+        "country_iso_2char": "LC",
+        "country_iso_3char": "LCA",
+        "country_iso_number": "662",
+        "country_name": "Saint Lucia",
+        "currency_iso_3char": "XCD",
+        "currency_iso_number": "951",
+        "currency_name": "East Caribbean Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "PM":
+    {
+        "country_iso_2char": "PM",
+        "country_iso_3char": "SPM",
+        "country_iso_number": "666",
+        "country_name": "Saint Pierre And Miquelon",
+        "currency_iso_3char": "EUR",
+        "currency_iso_number": "978",
+        "currency_name": "Euro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "VC":
+    {
+        "country_iso_2char": "VC",
+        "country_iso_3char": "VCT",
+        "country_iso_number": "670",
+        "country_name": "Saint Vincent And The Grenedines",
+        "currency_iso_3char": "XCD",
+        "currency_iso_number": "951",
+        "currency_name": "East Caribbean Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "WS":
+    {
+        "country_iso_2char": "WS",
+        "country_iso_3char": "WSM",
+        "country_iso_number": "882",
+        "country_name": "Samoa",
+        "currency_iso_3char": "WST",
+        "currency_iso_number": "882",
+        "currency_name": "Tala",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "SM":
+    {
+        "country_iso_2char": "SM",
+        "country_iso_3char": "SMR",
+        "country_iso_number": "674",
+        "country_name": "San Marino",
+        "currency_iso_3char": "EUR",
+        "currency_iso_number": "978",
+        "currency_name": "Euro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "ST":
+    {
+        "country_iso_2char": "ST",
+        "country_iso_3char": "STP",
+        "country_iso_number": "678",
+        "country_name": "Sao Tome and Principe",
+        "currency_iso_3char": "STD",
+        "currency_iso_number": "678",
+        "currency_name": "Dobra",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "SA":
+    {
+        "country_iso_2char": "SA",
+        "country_iso_3char": "SAU",
+        "country_iso_number": "682",
+        "country_name": "Saudi Arabia",
+        "currency_iso_3char": "SAR",
+        "currency_iso_number": "682",
+        "currency_name": "Saudi Riyal",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "SN":
+    {
+        "country_iso_2char": "SN",
+        "country_iso_3char": "SEN",
+        "country_iso_number": "686",
+        "country_name": "Senegal",
+        "currency_iso_3char": "XOF",
+        "currency_iso_number": "952",
+        "currency_name": "CFA Franc BCEAO",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "RS":
+    {
+        "country_iso_2char": "RS",
+        "country_iso_3char": "",
+        "country_iso_number": "688",
+        "country_name": "Serbia",
+        "currency_iso_3char": "CSD",
+        "currency_iso_number": "",
+        "currency_name": "Serbian Dinar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "SC":
+    {
+        "country_iso_2char": "SC",
+        "country_iso_3char": "SYC",
+        "country_iso_number": "690",
+        "country_name": "Seychelles",
+        "currency_iso_3char": "SCR",
+        "currency_iso_number": "690",
+        "currency_name": "Seychelles Rupee",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "SL":
+    {
+        "country_iso_2char": "SL",
+        "country_iso_3char": "SLE",
+        "country_iso_number": "694",
+        "country_name": "Sierra Leone",
+        "currency_iso_3char": "SLL",
+        "currency_iso_number": "694",
+        "currency_name": "Leone",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "SG":
+    {
+        "country_iso_2char": "SG",
+        "country_iso_3char": "SGP",
+        "country_iso_number": "702",
+        "country_name": "Singapore",
+        "currency_iso_3char": "SGD",
+        "currency_iso_number": "702",
+        "currency_name": "Singapore Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "SK":
+    {
+        "country_iso_2char": "SK",
+        "country_iso_3char": "SVK",
+        "country_iso_number": "703",
+        "country_name": "Slovakia",
+        "currency_iso_3char": "EUR",
+        "currency_iso_number": "978",
+        "currency_name": "Euro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "SI":
+    {
+        "country_iso_2char": "SI",
+        "country_iso_3char": "SVN",
+        "country_iso_number": "705",
+        "country_name": "Slovenia",
+        "currency_iso_3char": "EUR",
+        "currency_iso_number": "978",
+        "currency_name": "Euro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "SB":
+    {
+        "country_iso_2char": "SB",
+        "country_iso_3char": "SLB",
+        "country_iso_number": "090",
+        "country_name": "Solomon Islands",
+        "currency_iso_3char": "SBD",
+        "currency_iso_number": "090",
+        "currency_name": "Solomon Islands Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "SO":
+    {
+        "country_iso_2char": "SO",
+        "country_iso_3char": "SOM",
+        "country_iso_number": "706",
+        "country_name": "Somalia",
+        "currency_iso_3char": "SOS",
+        "currency_iso_number": "706",
+        "currency_name": "Somali Shilling",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "ZA":
+    {
+        "country_iso_2char": "ZA",
+        "country_iso_3char": "ZAF",
+        "country_iso_number": "710",
+        "country_name": "South Africa",
+        "currency_iso_3char": "ZAL",
+        "currency_iso_number": "991",
+        "currency_name": "South African financial rand (Funds code) (discont",
+        "state_name": "Province",
+        "states":
+        {
+            "EC": "Eastern Cape",
+            "FS": "Free State",
+            "GP": "Gauteng",
+            "KZN": "KwaZulu-Natal",
+            "LP": "Limpopo",
+            "MP": "Mpumalanga",
+            "NC": "Northern Cape",
+            "NW": "North West",
+            "WC": "Western Cape"
+        }
+    },
+    "ES":
+    {
+        "country_iso_2char": "ES",
+        "country_iso_3char": "ESP",
+        "country_iso_number": "724",
+        "country_name": "Spain",
+        "currency_iso_3char": "EUR",
+        "currency_iso_number": "978",
+        "currency_name": "Euro",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "LK":
+    {
+        "country_iso_2char": "LK",
+        "country_iso_3char": "LKA",
+        "country_iso_number": "144",
+        "country_name": "Sri Lanka",
+        "currency_iso_3char": "LKR",
+        "currency_iso_number": "144",
+        "currency_name": "Sri Lanka Rupee",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "SD":
+    {
+        "country_iso_2char": "SD",
+        "country_iso_3char": "SDN",
+        "country_iso_number": "736",
+        "country_name": "Sudan",
+        "currency_iso_3char": "SDG",
+        "currency_iso_number": "938",
+        "currency_name": "Sudanese Pound",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "SR":
+    {
+        "country_iso_2char": "SR",
+        "country_iso_3char": "SUR",
+        "country_iso_number": "740",
+        "country_name": "Suriname",
+        "currency_iso_3char": "SRG",
+        "currency_iso_number": "740",
+        "currency_name": "Suriname guilder",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "SJ":
+    {
+        "country_iso_2char": "SJ",
+        "country_iso_3char": "SJM",
+        "country_iso_number": "744",
+        "country_name": "Svalbard And Jan Mayen",
+        "currency_iso_3char": "NOK",
+        "currency_iso_number": "578",
+        "currency_name": "Norwegian Krone",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "SZ":
+    {
+        "country_iso_2char": "SZ",
+        "country_iso_3char": "SWZ",
+        "country_iso_number": "748",
+        "country_name": "Swaziland",
+        "currency_iso_3char": "SZL",
+        "currency_iso_number": "748",
+        "currency_name": "Lilangeni",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "SE":
+    {
+        "country_iso_2char": "SE",
+        "country_iso_3char": "SWE",
+        "country_iso_number": "752",
+        "country_name": "Sweden",
+        "currency_iso_3char": "SEK",
+        "currency_iso_number": "752",
+        "currency_name": "Swedish Krona",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "CH":
+    {
+        "country_iso_2char": "CH",
+        "country_iso_3char": "CHE",
+        "country_iso_number": "756",
+        "country_name": "Switzerland",
+        "currency_iso_3char": "CHW",
+        "currency_iso_number": "948",
+        "currency_name": "WIR Franc",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "SY":
+    {
+        "country_iso_2char": "SY",
+        "country_iso_3char": "SYR",
+        "country_iso_number": "760",
+        "country_name": "Syrian Arab Republic",
+        "currency_iso_3char": "SYP",
+        "currency_iso_number": "760",
+        "currency_name": "Syrian Pound",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "TW":
+    {
+        "country_iso_2char": "TW",
+        "country_iso_3char": "TWN",
+        "country_iso_number": "158",
+        "country_name": "Taiwan, Province Of China",
+        "currency_iso_3char": "TWD",
+        "currency_iso_number": "901",
+        "currency_name": "New Taiwan Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "TJ":
+    {
+        "country_iso_2char": "TJ",
+        "country_iso_3char": "TJK",
+        "country_iso_number": "762",
+        "country_name": "Tajikistan",
+        "currency_iso_3char": "TJR",
+        "currency_iso_number": "762",
+        "currency_name": "Tajikistan ruble",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "TZ":
+    {
+        "country_iso_2char": "TZ",
+        "country_iso_3char": "TZA",
+        "country_iso_number": "834",
+        "country_name": "Tanzania, United Republic of",
+        "currency_iso_3char": "TZS",
+        "currency_iso_number": "834",
+        "currency_name": "Tanzanian Shilling",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "TH":
+    {
+        "country_iso_2char": "TH",
+        "country_iso_3char": "THA",
+        "country_iso_number": "764",
+        "country_name": "Thailand",
+        "currency_iso_3char": "THB",
+        "currency_iso_number": "764",
+        "currency_name": "Baht",
+        "state_name": "Province",
+        "states":
+        {
+            "TH-37": "Amnat Charoen (&#3629;&#3635;&#3609;&#3634;&#3592;&#3648;&#3592;&#3619;&#3636;&#3597;)",
+            "TH-15": "Ang Thong (&#3629;&#3656;&#3634;&#3591;&#3607;&#3629;&#3591;)",
+            "TH-14": "Ayutthaya (&#3614;&#3619;&#3632;&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;&#3629;&#3618;&#3640;&#3608;&#3618;&#3634;)",
+            "TH-10": "Bangkok (&#3585;&#3619;&#3640;&#3591;&#3648;&#3607;&#3614;&#3617;&#3627;&#3634;&#3609;&#3588;&#3619;)",
+            "TH-38": "Bueng Kan (&#3610;&#3638;&#3591;&#3585;&#3634;&#3628;)",
+            "TH-31": "Buri Ram (&#3610;&#3640;&#3619;&#3637;&#3619;&#3633;&#3617;&#3618;&#3660;)",
+            "TH-24": "Chachoengsao (&#3593;&#3632;&#3648;&#3594;&#3636;&#3591;&#3648;&#3607;&#3619;&#3634;)",
+            "TH-18": "Chai Nat (&#3594;&#3633;&#3618;&#3609;&#3634;&#3607;)",
+            "TH-36": "Chaiyaphum (&#3594;&#3633;&#3618;&#3616;&#3641;&#3617;&#3636;)",
+            "TH-22": "Chanthaburi (&#3592;&#3633;&#3609;&#3607;&#3610;&#3640;&#3619;&#3637;)",
+            "TH-50": "Chiang Mai (&#3648;&#3594;&#3637;&#3618;&#3591;&#3651;&#3627;&#3617;&#3656;)",
+            "TH-57": "Chiang Rai (&#3648;&#3594;&#3637;&#3618;&#3591;&#3619;&#3634;&#3618;)",
+            "TH-20": "Chonburi (&#3594;&#3621;&#3610;&#3640;&#3619;&#3637;)",
+            "TH-86": "Chumphon (&#3594;&#3640;&#3617;&#3614;&#3619;)",
+            "TH-46": "Kalasin (&#3585;&#3634;&#3628;&#3626;&#3636;&#3609;&#3608;&#3640;&#3660;)",
+            "TH-62": "Kamphaeng Phet (&#3585;&#3635;&#3649;&#3614;&#3591;&#3648;&#3614;&#3594;&#3619;)",
+            "TH-71": "Kanchanaburi (&#3585;&#3634;&#3597;&#3592;&#3609;&#3610;&#3640;&#3619;&#3637;)",
+            "TH-40": "Khon Kaen (&#3586;&#3629;&#3609;&#3649;&#3585;&#3656;&#3609;)",
+            "TH-81": "Krabi (&#3585;&#3619;&#3632;&#3610;&#3637;&#3656;)",
+            "TH-52": "Lampang (&#3621;&#3635;&#3611;&#3634;&#3591;)",
+            "TH-51": "Lamphun (&#3621;&#3635;&#3614;&#3641;&#3609;)",
+            "TH-42": "Loei (&#3648;&#3621;&#3618;)",
+            "TH-16": "Lopburi (&#3621;&#3614;&#3610;&#3640;&#3619;&#3637;)",
+            "TH-58": "Mae Hong Son (&#3649;&#3617;&#3656;&#3630;&#3656;&#3629;&#3591;&#3626;&#3629;&#3609;)",
+            "TH-44": "Maha Sarakham (&#3617;&#3627;&#3634;&#3626;&#3634;&#3619;&#3588;&#3634;&#3617;)",
+            "TH-49": "Mukdahan (&#3617;&#3640;&#3585;&#3604;&#3634;&#3627;&#3634;&#3619;)",
+            "TH-26": "Nakhon Nayok (&#3609;&#3588;&#3619;&#3609;&#3634;&#3618;&#3585;)",
+            "TH-73": "Nakhon Pathom (&#3609;&#3588;&#3619;&#3611;&#3600;&#3617;)",
+            "TH-48": "Nakhon Phanom (&#3609;&#3588;&#3619;&#3614;&#3609;&#3617;)",
+            "TH-30": "Nakhon Ratchasima (&#3609;&#3588;&#3619;&#3619;&#3634;&#3594;&#3626;&#3637;&#3617;&#3634;)",
+            "TH-60": "Nakhon Sawan (&#3609;&#3588;&#3619;&#3626;&#3623;&#3619;&#3619;&#3588;&#3660;)",
+            "TH-80": "Nakhon Si Thammarat (&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;&#3608;&#3619;&#3619;&#3617;&#3619;&#3634;&#3594;)",
+            "TH-55": "Nan (&#3609;&#3656;&#3634;&#3609;)",
+            "TH-96": "Narathiwat (&#3609;&#3619;&#3634;&#3608;&#3636;&#3623;&#3634;&#3626;)",
+            "TH-39": "Nong Bua Lam Phu (&#3627;&#3609;&#3629;&#3591;&#3610;&#3633;&#3623;&#3621;&#3635;&#3616;&#3641;)",
+            "TH-43": "Nong Khai (&#3627;&#3609;&#3629;&#3591;&#3588;&#3634;&#3618;)",
+            "TH-12": "Nonthaburi (&#3609;&#3609;&#3607;&#3610;&#3640;&#3619;&#3637;)",
+            "TH-13": "Pathum Thani (&#3611;&#3607;&#3640;&#3617;&#3608;&#3634;&#3609;&#3637;)",
+            "TH-94": "Pattani (&#3611;&#3633;&#3605;&#3605;&#3634;&#3609;&#3637;)",
+            "TH-82": "Phang Nga (&#3614;&#3633;&#3591;&#3591;&#3634;)",
+            "TH-93": "Phatthalung (&#3614;&#3633;&#3607;&#3621;&#3640;&#3591;)",
+            "TH-56": "Phayao (&#3614;&#3632;&#3648;&#3618;&#3634;)",
+            "TH-67": "Phetchabun (&#3648;&#3614;&#3594;&#3619;&#3610;&#3641;&#3619;&#3603;&#3660;)",
+            "TH-76": "Phetchaburi (&#3648;&#3614;&#3594;&#3619;&#3610;&#3640;&#3619;&#3637;)",
+            "TH-66": "Phichit (&#3614;&#3636;&#3592;&#3636;&#3605;&#3619;)",
+            "TH-65": "Phitsanulok (&#3614;&#3636;&#3625;&#3603;&#3640;&#3650;&#3621;&#3585;)",
+            "TH-54": "Phrae (&#3649;&#3614;&#3619;&#3656;)",
+            "TH-83": "Phuket (&#3616;&#3641;&#3648;&#3585;&#3655;&#3605;)",
+            "TH-25": "Prachin Buri (&#3611;&#3619;&#3634;&#3592;&#3637;&#3609;&#3610;&#3640;&#3619;&#3637;)",
+            "TH-77": "Prachuap Khiri Khan (&#3611;&#3619;&#3632;&#3592;&#3623;&#3610;&#3588;&#3637;&#3619;&#3637;&#3586;&#3633;&#3609;&#3608;&#3660;)",
+            "TH-85": "Ranong (&#3619;&#3632;&#3609;&#3629;&#3591;)",
+            "TH-70": "Ratchaburi (&#3619;&#3634;&#3594;&#3610;&#3640;&#3619;&#3637;)",
+            "TH-21": "Rayong (&#3619;&#3632;&#3618;&#3629;&#3591;)",
+            "TH-45": "Roi Et (&#3619;&#3657;&#3629;&#3618;&#3648;&#3629;&#3655;&#3604;)",
+            "TH-27": "Sa Kaeo (&#3626;&#3619;&#3632;&#3649;&#3585;&#3657;&#3623;)",
+            "TH-47": "Sakon Nakhon (&#3626;&#3585;&#3621;&#3609;&#3588;&#3619;)",
+            "TH-11": "Samut Prakan (&#3626;&#3617;&#3640;&#3607;&#3619;&#3611;&#3619;&#3634;&#3585;&#3634;&#3619;)",
+            "TH-74": "Samut Sakhon (&#3626;&#3617;&#3640;&#3607;&#3619;&#3626;&#3634;&#3588;&#3619;)",
+            "TH-75": "Samut Songkhram (&#3626;&#3617;&#3640;&#3607;&#3619;&#3626;&#3591;&#3588;&#3619;&#3634;&#3617;)",
+            "TH-19": "Saraburi (&#3626;&#3619;&#3632;&#3610;&#3640;&#3619;&#3637;)",
+            "TH-91": "Satun (&#3626;&#3605;&#3641;&#3621;)",
+            "TH-17": "Sing Buri (&#3626;&#3636;&#3591;&#3627;&#3660;&#3610;&#3640;&#3619;&#3637;)",
+            "TH-33": "Sisaket (&#3624;&#3619;&#3637;&#3626;&#3632;&#3648;&#3585;&#3625;)",
+            "TH-90": "Songkhla (&#3626;&#3591;&#3586;&#3621;&#3634;)",
+            "TH-64": "Sukhothai (&#3626;&#3640;&#3650;&#3586;&#3607;&#3633;&#3618;)",
+            "TH-72": "Suphan Buri (&#3626;&#3640;&#3614;&#3619;&#3619;&#3603;&#3610;&#3640;&#3619;&#3637;)",
+            "TH-84": "Surat Thani (&#3626;&#3640;&#3619;&#3634;&#3625;&#3598;&#3619;&#3660;&#3608;&#3634;&#3609;&#3637;)",
+            "TH-32": "Surin (&#3626;&#3640;&#3619;&#3636;&#3609;&#3607;&#3619;&#3660;)",
+            "TH-63": "Tak (&#3605;&#3634;&#3585;)",
+            "TH-92": "Trang (&#3605;&#3619;&#3633;&#3591;)",
+            "TH-23": "Trat (&#3605;&#3619;&#3634;&#3604;)",
+            "TH-34": "Ubon Ratchathani (&#3629;&#3640;&#3610;&#3621;&#3619;&#3634;&#3594;&#3608;&#3634;&#3609;&#3637;)",
+            "TH-41": "Udon Thani (&#3629;&#3640;&#3604;&#3619;&#3608;&#3634;&#3609;&#3637;)",
+            "TH-61": "Uthai Thani (&#3629;&#3640;&#3607;&#3633;&#3618;&#3608;&#3634;&#3609;&#3637;)",
+            "TH-53": "Uttaradit (&#3629;&#3640;&#3605;&#3619;&#3604;&#3636;&#3605;&#3606;&#3660;)",
+            "TH-95": "Yala (&#3618;&#3632;&#3621;&#3634;)",
+            "TH-35": "Yasothon (&#3618;&#3650;&#3626;&#3608;&#3619;)"
+        }
+    },
+    "TL":
+    {
+        "country_iso_2char": "TL",
+        "country_iso_3char": "TLS",
+        "country_iso_number": "626",
+        "country_name": "Timor-Leste",
+        "currency_iso_3char": "USD",
+        "currency_iso_number": "840",
+        "currency_name": "US Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "TG":
+    {
+        "country_iso_2char": "TG",
+        "country_iso_3char": "TGO",
+        "country_iso_number": "768",
+        "country_name": "Togo",
+        "currency_iso_3char": "XOF",
+        "currency_iso_number": "952",
+        "currency_name": "CFA Franc BCEAO",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "TK":
+    {
+        "country_iso_2char": "TK",
+        "country_iso_3char": "TKL",
+        "country_iso_number": "772",
+        "country_name": "Tokelau",
+        "currency_iso_3char": "NZD",
+        "currency_iso_number": "554",
+        "currency_name": "New Zealand Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "TO":
+    {
+        "country_iso_2char": "TO",
+        "country_iso_3char": "TON",
+        "country_iso_number": "776",
+        "country_name": "Tonga",
+        "currency_iso_3char": "TOP",
+        "currency_iso_number": "776",
+        "currency_name": "Pa'anga",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "TT":
+    {
+        "country_iso_2char": "TT",
+        "country_iso_3char": "TTO",
+        "country_iso_number": "780",
+        "country_name": "Trinidad and Tobago",
+        "currency_iso_3char": "TTD",
+        "currency_iso_number": "780",
+        "currency_name": "Trinidata and Tobago Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "TN":
+    {
+        "country_iso_2char": "TN",
+        "country_iso_3char": "TUN",
+        "country_iso_number": "788",
+        "country_name": "Tunisia",
+        "currency_iso_3char": "TND",
+        "currency_iso_number": "788",
+        "currency_name": "Tunisian Dinar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "TR":
+    {
+        "country_iso_2char": "TR",
+        "country_iso_3char": "TUR",
+        "country_iso_number": "792",
+        "country_name": "Turkey",
+        "currency_iso_3char": "TRL",
+        "currency_iso_number": "792",
+        "currency_name": "Turkish lira A\/05",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "TM":
+    {
+        "country_iso_2char": "TM",
+        "country_iso_3char": "TKM",
+        "country_iso_number": "795",
+        "country_name": "Turkmenistan",
+        "currency_iso_3char": "TMM",
+        "currency_iso_number": "795",
+        "currency_name": "Manat",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "TC":
+    {
+        "country_iso_2char": "TC",
+        "country_iso_3char": "TCA",
+        "country_iso_number": "796",
+        "country_name": "Turks and Caicos Islands",
+        "currency_iso_3char": "USD",
+        "currency_iso_number": "840",
+        "currency_name": "US Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "TV":
+    {
+        "country_iso_2char": "TV",
+        "country_iso_3char": "TUV",
+        "country_iso_number": "798",
+        "country_name": "Tuvalu",
+        "currency_iso_3char": "AUD",
+        "currency_iso_number": "036",
+        "currency_name": "Australian Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "SU":
+    {
+        "country_iso_2char": "SU",
+        "country_iso_3char": "SUN",
+        "country_iso_number": "810",
+        "country_name": "U.S.S.R.",
+        "currency_iso_3char": "SUR",
+        "currency_iso_number": "",
+        "currency_name": "Soviet Union ruble",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "UG":
+    {
+        "country_iso_2char": "UG",
+        "country_iso_3char": "UGA",
+        "country_iso_number": "800",
+        "country_name": "Uganda",
+        "currency_iso_3char": "UGS",
+        "currency_iso_number": "",
+        "currency_name": "Ugandan shilling A\/87",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "UA":
+    {
+        "country_iso_2char": "UA",
+        "country_iso_3char": "UKR",
+        "country_iso_number": "804",
+        "country_name": "Ukraine",
+        "currency_iso_3char": "UAK",
+        "currency_iso_number": "804",
+        "currency_name": "Ukrainian karbovanets",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "AE":
+    {
+        "country_iso_2char": "AE",
+        "country_iso_3char": "ARE",
+        "country_iso_number": "784",
+        "country_name": "United Arab Emirates",
+        "currency_iso_3char": "AED",
+        "currency_iso_number": "784",
+        "currency_name": "UAE Dirham",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "GB":
+    {
+        "country_iso_2char": "GB",
+        "country_iso_3char": "GBR",
+        "country_iso_number": "826",
+        "country_name": "United Kingdom",
+        "currency_iso_3char": "GBP",
+        "currency_iso_number": "826",
+        "currency_name": "Pound Sterling",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "US":
+    {
+        "country_iso_2char": "US",
+        "country_iso_3char": "USA",
+        "country_iso_number": "840",
+        "country_name": "United States",
+        "currency_iso_3char": "USD",
+        "currency_iso_number": "998",
+        "currency_name": "US Dollar",
+        "state_name": "State",
+        "states":
+        {
+            "AL": "Alabama",
+            "AK": "Alaska",
+            "AZ": "Arizona",
+            "AR": "Arkansas",
+            "CA": "California",
+            "CO": "Colorado",
+            "CT": "Connecticut",
+            "DE": "Delaware",
+            "DC": "District Of Columbia",
+            "FL": "Florida",
+            "GA": "Georgia",
+            "HI": "Hawaii",
+            "ID": "Idaho",
+            "IL": "Illinois",
+            "IN": "Indiana",
+            "IA": "Iowa",
+            "KS": "Kansas",
+            "KY": "Kentucky",
+            "LA": "Louisiana",
+            "ME": "Maine",
+            "MD": "Maryland",
+            "MA": "Massachusetts",
+            "MI": "Michigan",
+            "MN": "Minnesota",
+            "MS": "Mississippi",
+            "MO": "Missouri",
+            "MT": "Montana",
+            "NE": "Nebraska",
+            "NV": "Nevada",
+            "NH": "New Hampshire",
+            "NJ": "New Jersey",
+            "NM": "New Mexico",
+            "NY": "New York",
+            "NC": "North Carolina",
+            "ND": "North Dakota",
+            "OH": "Ohio",
+            "OK": "Oklahoma",
+            "OR": "Oregon",
+            "PA": "Pennsylvania",
+            "RI": "Rhode Island",
+            "SC": "South Carolina",
+            "SD": "South Dakota",
+            "TN": "Tennessee",
+            "TX": "Texas",
+            "UT": "Utah",
+            "VT": "Vermont",
+            "VA": "Virginia",
+            "WA": "Washington",
+            "WV": "West Virginia",
+            "WI": "Wisconsin",
+            "WY": "Wyoming"
+        }
+    },
+    "UM":
+    {
+        "country_iso_2char": "UM",
+        "country_iso_3char": "UMI",
+        "country_iso_number": "581",
+        "country_name": "United States Minor Outlying Islands",
+        "currency_iso_3char": "USD",
+        "currency_iso_number": "840",
+        "currency_name": "US Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "UY":
+    {
+        "country_iso_2char": "UY",
+        "country_iso_3char": "URY",
+        "country_iso_number": "858",
+        "country_name": "Uruguay",
+        "currency_iso_3char": "UYI",
+        "currency_iso_number": "940",
+        "currency_name": "Uruguay Peso en Unidades Indexadas",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "UZ":
+    {
+        "country_iso_2char": "UZ",
+        "country_iso_3char": "UZB",
+        "country_iso_number": "860",
+        "country_name": "Uzbekistan",
+        "currency_iso_3char": "UZS",
+        "currency_iso_number": "860",
+        "currency_name": "Uzbekistan Sum",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "VU":
+    {
+        "country_iso_2char": "VU",
+        "country_iso_3char": "VUT",
+        "country_iso_number": "548",
+        "country_name": "Vanuatu",
+        "currency_iso_3char": "VUV",
+        "currency_iso_number": "548",
+        "currency_name": "Vatu",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "VE":
+    {
+        "country_iso_2char": "VE",
+        "country_iso_3char": "VEN",
+        "country_iso_number": "862",
+        "country_name": "Venezuela",
+        "currency_iso_3char": "VEB",
+        "currency_iso_number": "862",
+        "currency_name": "Venezuelan Bolivar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "VN":
+    {
+        "country_iso_2char": "VN",
+        "country_iso_3char": "VNM",
+        "country_iso_number": "704",
+        "country_name": "Viet Nam",
+        "currency_iso_3char": "VNC",
+        "currency_iso_number": "",
+        "currency_name": "Vietnamese old dong",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "VG":
+    {
+        "country_iso_2char": "VG",
+        "country_iso_3char": "VGB",
+        "country_iso_number": "092",
+        "country_name": "Virgin Islands, British",
+        "currency_iso_3char": "USD",
+        "currency_iso_number": "840",
+        "currency_name": "US Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "VI":
+    {
+        "country_iso_2char": "VI",
+        "country_iso_3char": "VIR",
+        "country_iso_number": "850",
+        "country_name": "Virgin Islands, U.S.",
+        "currency_iso_3char": "USD",
+        "currency_iso_number": "840",
+        "currency_name": "US Dollar",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "WF":
+    {
+        "country_iso_2char": "WF",
+        "country_iso_3char": "WLF",
+        "country_iso_number": "876",
+        "country_name": "Wallis and Futuna",
+        "currency_iso_3char": "XPF",
+        "currency_iso_number": "953",
+        "currency_name": "CFP Franc",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "EH":
+    {
+        "country_iso_2char": "EH",
+        "country_iso_3char": "ESH",
+        "country_iso_number": "732",
+        "country_name": "Western Sahara",
+        "currency_iso_3char": "MAD",
+        "currency_iso_number": "504",
+        "currency_name": "Moroccan Dirham",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "YE":
+    {
+        "country_iso_2char": "YE",
+        "country_iso_3char": "YEM",
+        "country_iso_number": "887",
+        "country_name": "Yemen",
+        "currency_iso_3char": "YER",
+        "currency_iso_number": "886",
+        "currency_name": "Yemeni Rial",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "YU":
+    {
+        "country_iso_2char": "YU",
+        "country_iso_3char": "YUG",
+        "country_iso_number": "891",
+        "country_name": "Yugoslavia",
+        "currency_iso_3char": "YUM",
+        "currency_iso_number": "891",
+        "currency_name": "Yugoslav dinar (new)",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "ZR":
+    {
+        "country_iso_2char": "ZR",
+        "country_iso_3char": "ZAR",
+        "country_iso_number": "",
+        "country_name": "Zaire",
+        "currency_iso_3char": "ZRZ",
+        "currency_iso_number": "",
+        "currency_name": "Zairean Zaire",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "ZM":
+    {
+        "country_iso_2char": "ZM",
+        "country_iso_3char": "ZMB",
+        "country_iso_number": "894",
+        "country_name": "Zambia",
+        "currency_iso_3char": "ZMK",
+        "currency_iso_number": "894",
+        "currency_name": "Kwacha",
+        "state_name": "State\/Province",
+        "states": []
+    },
+    "ZW":
+    {
+        "country_iso_2char": "ZW",
+        "country_iso_3char": "ZWE",
+        "country_iso_number": "716",
+        "country_name": "Zimbabwe",
+        "currency_iso_3char": "ZWC",
+        "currency_iso_number": "",
+        "currency_name": "Zimbabwe Rhodesian dollar",
+        "state_name": "State\/Province",
+        "states": []
+    }
+}

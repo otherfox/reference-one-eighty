@@ -1,0 +1,363 @@
+/* ---------------------------------------------------------------------- */
+/*	Message boxes
+/* ---------------------------------------------------------------------- */
+.diglabs-message {
+    position: relative;
+    overflow: hidden;
+    padding: 10px 10px !important;
+
+    background-color: #1E80B6 !important;
+    border: 1px solid #095db6 !important;
+
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+
+    -webkit-box-shadow: inset 0 0 15px rgba( 0,0,0,0.04 );
+    -moz-box-shadow: inset 0 0 15px rgba( 0,0,0,0.04 );
+    box-shadow: inset 0 0 15px rgba( 0,0,0,0.04 );
+}
+.diglabs-message code {
+    background-color: #1E80B6 !important;
+}
+.diglabs-message.diglabs-error {
+    border: 1px solid #c32215 !important;
+    background: #C3362C !important;
+}
+.diglabs-message.diglabs-error code {
+    background-color: #C3362C !important;
+}
+.diglabs-message img.diglabs-icon {
+    float: right;
+    position: relative;
+    top: -11px;
+    left: 11px;
+    padding: 3px;
+    height: 22px;
+    background-color: #fff;
+    -moz-border-radius: 0px 0px 0px 11px;
+    -webkit-border-radius: 0px 0px 0px 11px;
+    border-radius: 0px 0px 0px 3px;
+    border: 1px solid #095db6;
+}
+.diglabs-message.diglabs-error img.diglabs-icon {
+    border-color: #c32215;
+}
+.diglabs-message > h4, .diglabs-message > div {
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    font-weight: normal;
+    text-shadow: 0 1px 1px #001842;
+}
+.diglabs-message.diglabs-error > h4, .diglabs-message.diglabs-error > div {
+    text-shadow: 0 1px 1px #5F0700;
+}
+.diglabs-message > h4 {
+    font-size: 18px;
+    line-height: 28px;
+}
+.diglabs-message > div {
+    font-size: 14px;
+    line-height: 24px;
+}
+.diglabs-info {
+    margin: 10px 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #F5F5F5;
+}
+.diglabs-legend {
+    text-transform: uppercase;
+    border-bottom: 1px solid #ccc;
+}
+/* ---------------------------------------------------------------------- */
+/*	Buttons
+/* ---------------------------------------------------------------------- */
+.diglabs-btn-orange {
+
+    -moz-box-shadow:inset 0px 1px 0px 0px #ffe0b5 !important;
+    -webkit-box-shadow:inset 0px 1px 0px 0px #ffe0b5 !important;
+    box-shadow:inset 0px 1px 0px 0px #ffe0b5 !important;
+
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #fbb450), color-stop(1, #f89306)) !important;
+    background:-moz-linear-gradient(top, #fbb450 5%, #f89306 100%) !important;
+    background:-webkit-linear-gradient(top, #fbb450 5%, #f89306 100%) !important;
+    background:-o-linear-gradient(top, #fbb450 5%, #f89306 100%) !important;
+    background:-ms-linear-gradient(top, #fbb450 5%, #f89306 100%) !important;
+    background:linear-gradient(to bottom, #fbb450 5%, #f89306 100%) !important;
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fbb450', endColorstr='#f89306',GradientType=0) !important;
+
+    background-color:#fbb450 !important;
+
+    border:1px solid #c97e1c !important;
+
+    display:inline-block !important;
+    color:#ffffff !important;
+    font-family:arial !important;
+    font-size:13px !important;
+    line-height: normal !important;
+    font-weight:bold !important;
+    padding:6px 12px !important;
+    text-decoration:none !important;
+    text-shadow: 0 1px 1px #001842 !important;
+
+}
+.diglabs-btn-orange:hover {
+    color: #ffffff !important;
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f89306), color-stop(1, #fbb450)) !important;
+    background:-moz-linear-gradient(top, #f89306 5%, #fbb450 100%) !important;
+    background:-webkit-linear-gradient(top, #f89306 5%, #fbb450 100%) !important;
+    background:-o-linear-gradient(top, #f89306 5%, #fbb450 100%) !important;
+    background:-ms-linear-gradient(top, #f89306 5%, #fbb450 100%) !important;
+    background:linear-gradient(to bottom, #f89306 5%, #fbb450 100%) !important;
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f89306', endColorstr='#fbb450',GradientType=0) !important;
+
+    background-color:#f89306 !important;
+}
+.diglabs-btn-orange:active {
+    position:relative !important;
+    top:1px !important;
+}
+
+.diglabs-btn-red  {
+
+    -moz-box-shadow:inset 0px 1px 0px 0px #cf866c !important;
+    -webkit-box-shadow:inset 0px 1px 0px 0px #cf866c !important;
+    box-shadow:inset 0px 1px 0px 0px #cf866c !important;
+
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #d0451b), color-stop(1, #bc3315)) !important;
+    background:-moz-linear-gradient(top, #d0451b 5%, #bc3315 100%) !important;
+    background:-webkit-linear-gradient(top, #d0451b 5%, #bc3315 100%) !important;
+    background:-o-linear-gradient(top, #d0451b 5%, #bc3315 100%) !important;
+    background:-ms-linear-gradient(top, #d0451b 5%, #bc3315 100%) !important;
+    background:linear-gradient(to bottom, #d0451b 5%, #bc3315 100%) !important;
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d0451b', endColorstr='#bc3315',GradientType=0) !important;
+
+    background-color:#d0451b !important;
+
+    border:1px solid #942911 !important;
+
+    display:inline-block !important;
+    color:#ffffff !important;
+    font-family:arial !important;
+    font-size:13px !important;
+    line-height: normal !important;
+    font-weight:bold !important;
+    padding:6px 12px !important;
+    text-decoration:none !important;
+    text-shadow: 0 1px 1px #001842 !important;
+
+}
+.diglabs-btn-red:hover {
+
+    color: #ffffff !important;
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #bc3315), color-stop(1, #d0451b)) !important;
+    background:-moz-linear-gradient(top, #bc3315 5%, #d0451b 100%) !important;
+    background:-webkit-linear-gradient(top, #bc3315 5%, #d0451b 100%) !important;
+    background:-o-linear-gradient(top, #bc3315 5%, #d0451b 100%) !important;
+    background:-ms-linear-gradient(top, #bc3315 5%, #d0451b 100%) !important;
+    background:linear-gradient(to bottom, #bc3315 5%, #d0451b 100%) !important;
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#bc3315', endColorstr='#d0451b',GradientType=0) !important;
+
+    background-color:#bc3315 !important;
+}
+.diglabs-btn-red:active {
+    position:relative !important;
+    top:1px !important;
+}
+
+.diglabs-btn-green {
+
+    -moz-box-shadow:inset 0px 1px 0px 0px #9acc85 !important;
+    -webkit-box-shadow:inset 0px 1px 0px 0px #9acc85 !important;
+    box-shadow:inset 0px 1px 0px 0px #9acc85 !important;
+
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #74ad5a), color-stop(1, #68a54b)) !important;
+    background:-moz-linear-gradient(top, #74ad5a 5%, #68a54b 100%) !important;
+    background:-webkit-linear-gradient(top, #74ad5a 5%, #68a54b 100%) !important;
+    background:-o-linear-gradient(top, #74ad5a 5%, #68a54b 100%) !important;
+    background:-ms-linear-gradient(top, #74ad5a 5%, #68a54b 100%) !important;
+    background:linear-gradient(to bottom, #74ad5a 5%, #68a54b 100%) !important;
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#74ad5a', endColorstr='#68a54b',GradientType=0) !important;
+
+    background-color:#74ad5a !important;
+
+    border:1px solid #3b6e22 !important;
+
+    display:inline-block !important;
+    color:#ffffff !important;
+    font-family:arial !important;
+    font-size:13px !important;
+    line-height: normal !important;
+    font-weight:bold !important;
+    padding:6px 12px !important;
+    text-decoration:none !important;
+    text-shadow: 0 1px 1px #001842 !important;
+
+}
+.diglabs-btn-green:hover {
+    color: #ffffff !important;
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #68a54b), color-stop(1, #74ad5a)) !important;
+    background:-moz-linear-gradient(top, #68a54b 5%, #74ad5a 100%) !important;
+    background:-webkit-linear-gradient(top, #68a54b 5%, #74ad5a 100%) !important;
+    background:-o-linear-gradient(top, #68a54b 5%, #74ad5a 100%) !important;
+    background:-ms-linear-gradient(top, #68a54b 5%, #74ad5a 100%) !important;
+    background:linear-gradient(to bottom, #68a54b 5%, #74ad5a 100%) !important;
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#68a54b', endColorstr='#74ad5a',GradientType=0) !important;
+
+    background-color:#68a54b !important;
+}
+.diglabs-btn-green:active {
+    position:relative !important;
+    top:1px !important;
+}
+
+.diglabs-btn-blue {
+
+    -moz-box-shadow:inset 0px 1px 0px 0px #7a8eb9 !important;
+    -webkit-box-shadow:inset 0px 1px 0px 0px #7a8eb9 !important;
+    box-shadow:inset 0px 1px 0px 0px #7a8eb9 !important;
+
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #637aad), color-stop(1, #5972a7)) !important;
+    background:-moz-linear-gradient(top, #637aad 5%, #5972a7 100%) !important;
+    background:-webkit-linear-gradient(top, #637aad 5%, #5972a7 100%) !important;
+    background:-o-linear-gradient(top, #637aad 5%, #5972a7 100%) !important;
+    background:-ms-linear-gradient(top, #637aad 5%, #5972a7 100%) !important;
+    background:linear-gradient(to bottom, #637aad 5%, #5972a7 100%) !important;
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#637aad', endColorstr='#5972a7',GradientType=0) !important;
+
+    background-color:#637aad !important;
+
+    border:1px solid #314179 !important;
+
+    display:inline-block !important;
+    color:#ffffff !important;
+    font-family:arial !important;
+    font-size:13px !important;
+    line-height: normal !important;
+    font-weight:bold !important;
+    padding:6px 12px !important;
+    text-decoration:none !important;
+    text-shadow: 0 1px 1px #001842 !important;
+
+}
+.diglabs-btn-blue:hover {
+    color: #ffffff !important;
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #5972a7), color-stop(1, #637aad)) !important;
+    background:-moz-linear-gradient(top, #5972a7 5%, #637aad 100%) !important;
+    background:-webkit-linear-gradient(top, #5972a7 5%, #637aad 100%) !important;
+    background:-o-linear-gradient(top, #5972a7 5%, #637aad 100%) !important;
+    background:-ms-linear-gradient(top, #5972a7 5%, #637aad 100%) !important;
+    background:linear-gradient(to bottom, #5972a7 5%, #637aad 100%) !important;
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#5972a7', endColorstr='#637aad',GradientType=0) !important;
+
+    background-color:#5972a7 !important;
+}
+.diglabs-btn-blue:active {
+    position:relative !important;
+    top:1px !important;
+}
+
+
+/* ---------------------------------------------------------------------- */
+/*	Forms
+/* ---------------------------------------------------------------------- */
+.diglabs-form{
+    margin: 0;
+    padding: 0;
+}
+.diglabs-form label {
+    display: block;
+    font-size: 16px;
+    padding-right: 4px;
+    font-family: 'Ubuntu';
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #91979b;
+    text-shadow: 1px 1px 0 #FFFFFF;
+    padding-top: 2px!important;
+}
+.diglabs-form.diglabs-inline label {
+    float: left;
+    text-align: right;
+    padding-top: 13px !important;
+    width: 30%!important;
+}
+.diglabs-form input[type="text"],
+.diglabs-form input[type="number"],
+.diglabs-form input[type="password"],
+.diglabs-form input[type="url"],
+.diglabs-form input[type="email"],
+.diglabs-form input[type="file"],
+.diglabs-form select,
+.diglabs-form textarea {
+    margin-bottom: 1px;
+    width: 100% !important;
+    padding: 8px !important;
+    border: 1px solid #dfdfdf !important;
+    background-color: #fdfdfd !important;
+    color: #767d82 !important;
+    font-size: 16px;
+    line-height: 18px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+.diglabs-form input[type="file"] {
+    width: auto !important;
+}
+.diglabs-form.diglabs-inline input[type="text"],
+.diglabs-form.diglabs-inline input[type="number"],
+.diglabs-form.diglabs-inline input[type="password"],
+.diglabs-form.diglabs-inline input[type="url"],
+.diglabs-form.diglabs-inline input[type="email"],
+.diglabs-form.diglabs-inline input[type="file"],
+.diglabs-form.diglabs-inline select,
+.diglabs-form.diglabs-inline textarea {
+    width: 50% !important;
+}
+
+.diglabs-form input[type="text"]:focus,
+.diglabs-form input[type="number"]:focus,
+.diglabs-form input[type="password"]:focus,
+.diglabs-form input[type="url"]:focus,
+.diglabs-form input[type="email"]:focus,
+.diglabs-form input[type="file"]:focus,
+.diglabs-form textarea:focus {
+    background-color: #1E80B6 !important;
+    color: #ffffff !important;
+    border: 1px solid #095db6 !important;
+}
+.diglabs-form input.diglabs-small-input,
+.diglabs-form select.diglabs-small-input {
+    width: 70px !important;
+}
+.diglabs-form input.diglabs-medium-input,
+.diglabs-form select.diglabs-medium-input {
+    width: 140px !important;
+}
+
+
+/* ---------------------------------------------------------------------- */
+/*	Paginator
+/* ---------------------------------------------------------------------- */
+ul.diglabs-paginator {
+    list-style: none;
+    overflow: auto;
+}
+ul.diglabs-paginator:before{
+    content: 'Page: ';
+    float: left;
+}
+ul.diglabs-paginator li {
+    float: left;
+    margin: 3px 5px;
+}
+ul.diglabs-paginator li.diglabs-paginator-active a {
+    text-decoration: underline;
+}

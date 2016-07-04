@@ -1,0 +1,266 @@
+2.3.12 : 11/17/2013
+-----------------------------------------
+* [fix] Fixed issue with show states javascript when multiple forms are on the same page.
+* [fix] Turned off logging by default and ensured .htaccess is present if logging is on.
+
+2.3.11 : 11/17/2013
+-----------------------------------------
+* [new] Added the full address details to the card when they are available (long form).
+* Fixed undefined property slug in the alt-api.php that sometimes was shown.
+* [new] Added feature to automatically create recurring stripe plans.
+* [new] Added feature to allow a list of plans in the stripe_form_standard_plan or stripe_form_plan_info shortcode.
+* Fixed the 200 character metadata limit issue.
+* [new] Updated so that the in-page receipt is scrolled to be visible.
+
+2.3.10 : 11/10/2013
+-----------------------------------------
+* [new] Updated the Eurozone countries to use the Euro as currency.
+* [new] Updated to leverage the metadata property that stripe provides instead of the description property.
+* [new] Should now be able to use description (stripe_form_begin and stripe_checkout_button) field without affecting the plugin.
+* Fixed headers already sent issue when trying to download csv file of transfers.
+* [new] Payment notification hooks can now update the email data.
+
+2.3.9 : 10/22/2013
+-----------------------------------------
+* Made a method public in the abstract base class for shortcodes.
+
+2.3.8 : 9/7/2013
+-----------------------------------------
+* Fixed session issue in the cart handler.
+* Fixed issue when auto-loader tries to load a class that already exists.
+
+2.3.7 : 9/7/2013
+-----------------------------------------
+* Fixed issue in stripe_form_standard_plan when the plan is not specified the third argument is not set.
+* Fixed bug found in the default receipt when tax was applied the indicated total collected was wrong. Collected amount was correct.
+* [new] Added a simple cart.
+
+2.3.6 : 8/18/2013
+-----------------------------------------
+* Fixed currency issue (showing dollar sign symbol) for recurring plans.
+* Fixed javascript issue for short=true forms.
+
+2.3.5 : 8/10/2013
+-----------------------------------------
+* Fixed rounding issue in the javascript that caused pay per download to fail.
+* Added feature to allow the default country/state to be set. Simply add attribute country='US' and state='WI' to the shortcode.
+* Fixed an issue found when PHP version is greater than 5.3.
+* Removed the 'Stripe Payment Plugin Loaded' marker.
+* Fixed issue when attempting to fetch json file from diglabs.com and diglabs.com is not available.
+
+2.3.4 : 7/19/2013
+-----------------------------------------
+* Fixed 'headers already sent' issue on some sites because the shortcodes were directly emitting content.
+* Fixed the json_last_error issue in PHP less than 5.3.0
+
+2.3.3 : 7/16/2013
+-----------------------------------------
+* Updated to allow tax collection from stripe checkout buttons. This is not foolproof as the country/province codes may not always match.
+* Add self-describing features to automate manual and documentation generation.
+* Fixed call to undefined deletePost function on settings page.
+
+2.3.2 : 7/13/2013
+-----------------------------------------
+* Presented JSON data better on customer screen.
+* Compatible with the 2013-07-05 Stripe API version. The card information is handled differently.
+
+2.3.1 : 7/10/2013
+-----------------------------------------
+* Fixed defect where tax was not being collected on stripe checkout buttons.
+
+2.3.0
+-----------------------------------------
+* Fixed issue where plugin was loading css and js in all admin pages and not just diglabs related ones.
+
+2.2.29
+-----------------------------------------
+* Refactored shortcodes into their own classes.
+* Made other bits of code use the autoloader and more OOP.
+* Fixed issue where tax was being charged on a subscription with a trial.
+
+2.2.28
+-----------------------------------------
+* Cleaned up the ajax code a bit to make it more maintainable.
+* Instead of multiple payments on subscriptions with initial fee, the fee is added to the invoice.
+* Created a new email default design. Now includes a section header.
+* Added tax collection to the subscription ajax (first payment) and to the payment notification (subsequent payments).
+* Updated Transfers tab to use the new Stripe_Transfer api. Added export feature.
+
+2.2.27
+-----------------------------------------
+* Now webhook handles charge.refunded notifications and sends email receipts for refunds.
+* Fixed issue with the status page listing out the tax information.
+* Changed the '0Plan' and '0Interval' in the email to be 'Plan #0' and 'Interval (for Plan #0)'.
+* Reduced the risk of CSS collisions by prepending '.error' and '.message' with 'stripe-payment-form-'.
+* Improved how intervals are shown in the receipt.
+* Fixed javascript issue that would not allow you to add taxes.
+
+2.2.26
+-----------------------------------------
+* Fixed issue with amounts for the users of pay per download and premium subscriber plugins.
+
+2.2.25
+-----------------------------------------
+* Added error information to the log file if sending email fails.
+* Created a status page that provides troubleshooting information.
+* Added some common CSS styles that can be used by this and the add-ons.
+* Refactored a bit and added auto-loader.
+* Updated settings and payment forms to support states/provinces/regions from countries other than US.
+* Updated settings and payment forms to support taxes from other countries.
+* Updated settings and payment forms to support currencies from other countries.
+
+2.2.24
+-----------------------------------------
+* Fixed is live keys POST when not checked.
+* Modified the solution to return the webhook to stripe.com from using wp_remote_post to a simpler solution.
+
+2.2.23
+-----------------------------------------
+* (14) Replaced all the 'USD $' references to simply '$'.
+* (13) Trim white space on api keys.
+* (12) Allow submit button text to be configured.
+* (16) Switched from using site_url to home_url to determine the webhook URL.
+* (17) Fixed the default permalink issue.
+
+2.2.22
+-----------------------------------------
+* (10) Correctly displays the trailing slash or not on the settings tab for the webhook url.
+* ( 9) Fixed issues that occur when the log folder is not writable.
+* (11) Added name to the transfers tab.
+* Fixed issue in the shortcode to support plans with multiple months or years.
+* ( 6) Added 'wp_remote_post' call to prevent long running processing to cause stripe.com to timeout.
+
+2.2.21
+-----------------------------------------
+* Fixed bug in tax rate on setup tab.
+* Added 'Transfers' tab.
+* ( 3) Added a 'stripe_form_no_amount' shortcode that allows you to create an account for future charges. Updated the form button from 'submit payment' to simply 'submit'.
+* Fixed various notices.
+* V2.2.18 broke the premium subscriber plugin. This version fixes that issue.
+* ( 2) Added 'quantity' to the subscription plan option.
+* Removed passwords from the description payload.
+* Added logging to the ajax and webhook processing. Logs are in '/logs' folder in the plugin directory. Needs write permissions.
+* ( 7) Centralized the loading of the stripe api.
+* ( 7) Will now function if another plugin has loaded the stripe api lib. Logged location and version.
+
+2.2.20
+-----------------------------------------
+* Added coupon percent to the response. This is useful for verification of the proper charged amount.
+* Fixed spelling of 'inital' to 'initial'.
+* Added 'discount' to the default receipt.
+* Added 'taxrate' and 'tax' of 0 for recurring plans to make default receipt consistent.
+* Added 'subtotal', 'discount', 'amount_before', 'amount_after' to the recurring plans response to make post payment processing by other plugins consistent.
+
+2.2.19
+-----------------------------------------
+* Fixed issue with tab parameter not being set on customer admin page.
+
+2.2.18
+-----------------------------------------
+* Exposed all payment events to other developers.
+* Reordered the API keys to be consistent with the stripe.com admin panel.
+* Cleaned up some WP_DEGUG messages.
+
+2.2.17
+-----------------------------------------
+* Fixed pass by reference errors.
+* Added ability to include an initial fee on recurring plans.
+* Added support for the checkout button (https://stripe.com/docs/checkout)
+
+2.2.16
+-----------------------------------------
+* Allowed HTTP GET to the webhook as an easy ping for testing.
+
+2.2.15
+-----------------------------------------
+* Removed dependency on folder name.
+* Removed console.log statement in javascript.
+* Removed 'kriesi_pagination' conflict that occurs with some themes.
+
+2.2.14
+-----------------------------------------
+* Fixed an issue that some users were experiencing with setup page related to the tax data.
+* Added clarity to the Webhook URL field.
+
+2.2.13
+-----------------------------------------
+* Added 'stripe_form_data' shortcode that is useful for adding data to a page from 'stripe_form_redirect'. Use [stripe_form_data name='dump_all'] to show all available name/value pairs.
+* Can now redirect by $response['url']='http://example.com' in the pre or post payment handlers.
+* Accepts fname, lname & email to pre-fill fields in either query string or post data.
+
+2.2.12
+-----------------------------------------
+* Added tax exempt attribute to the form shortcode.
+
+2.2.11
+-----------------------------------------
+* Tax is now applied after a coupon is applied.
+
+2.2.10
+-----------------------------------------
+* Fixed an issue with coupon codes.
+
+2.2.9
+-----------------------------------------
+* Added countries and states drop downs
+    - short (fname, lname, email)
+    - medium (short + country, state)
+    - long (medium + city, add1, add2, zip, phone)
+    - custom (anything you want)
+* Added us tax area to setup page
+* Add a 'stripe_form_redirect' short code that takes a 'url' attribute.
+* Added the following action/filters in the payment notification callback:
+    action:'stripe_invoice_created_notification' - used to add payments to an invoice.
+    filter:'stripe_payment_data_filter' - used to filter 'data' sent to the email helper.
+    action:'stripe_payment_notification' - used to add additional processing after each payment.
+* Added links to help pages to the admin panel.
+* Fixed an issue seen where the ajax call gets hijacked.
+
+
+2.2.8
+-----------------------------------------
+* Fixed the more robust comparison to make it more robust.
+
+2.2.7
+-----------------------------------------
+* Added a more robust comparison for detecting the payment notification URL.
+
+2.2.6
+-----------------------------------------
+* Fixed issue where form includes a description. Emails previously would not be sent.
+* Loaded javascript only if a payment form is present on the page and pushed the load to the page footer.
+
+* Removed 'amount' from 'createToken' call as it is no longer supported by Stripe
+
+2.2.5
+-----------------------------------------
+* Fixed issue with plans having amounts that were not integer (e.g. 9.99)
+* Fixed issue with invalid coupon codes.
+
+2.2.4
+-----------------------------------------
+* Added back the feature of being able to HTTP POST to a page containing a payment form and having all POST data embedded into the new form.
+
+2.2.3
+-----------------------------------------
+* Fixed errors when invalid of no API keys are configured.
+* Fixed issue related to recurring payments not receiving emails.
+
+2.2.0.0
+-----------------------------------------
+* Added Stripe.com management elements (Customers, Payments, Subscriptions, Events) to the plugin admin panel.
+* Removed the docs that were in the admin page. Not as maintainable.
+* Refactoring of code for maintainability.
+* Coupon support using the [stripe_form_coupon] or [stripe_form_coupon code='id'] short code.
+* Wordpress update API support.
+* Added hooks to support premium subscriber plugin.
+
+
+2.1.0.0
+-----------------------------------------
+* Support for stripe-php-1.6.1
+* Fixed a few bugs.
+
+2.0.0.0
+-----------------------------------------
+* Initial paid release

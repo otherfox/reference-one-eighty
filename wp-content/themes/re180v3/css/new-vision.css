@@ -1,0 +1,702 @@
+/*
+	Author: Nick Tennies
+	Theme: re180 V2.0
+	Description: The is revamp of the website that focus just on Incorporation
+*/
+
+/* ======================================================= 
+New Vision CSS 
+========================================================== */
+
+#header-container .nv-new-header {
+	padding-top:0px;
+	}
+	
+#header-wrapper.nv-new-wrapper {
+	padding-top: 30px;
+	margin-bottom: 10px;
+	margin-top: 0;
+	background-color: #ffffff;
+	}
+	
+#footer-wrapper.wrapper {
+	border-top: 1px solid #E6E6E6;
+	}
+	
+#footer-wrapper.wrapper #footer-container #footer {
+	border-top: 0;
+	}
+
+#header-wrapper #header {
+	padding-bottom: 20px;
+	}
+	
+.new-vision-body p,
+.new-vision-body li {
+	font-size:14px;
+	line-height: 21px;
+}
+
+.new-vision-body .buttonGroup li {
+	font-size:12px;
+}
+
+.new-vision-body #main .et_lb_module  ul,
+#main .et_lb_module ul.nv-ul {
+	list-style: disc;
+	list-style-position:inside;
+}
+
+.new-vision-body #main .et_lb_module  ol {
+	list-style-position:inside;
+}
+
+.new-vision-body .et_lb_module li,
+#main .et_lb_module ul.nv-ul li {
+	background:none;
+	padding: 0;
+	margin: 10px 0;
+}
+
+.new-vision-body h1 {
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 125%;
+}
+
+.new-vision-body h2 {
+	font-weight: normal;
+	font-size: 26px;
+	line-height: 125%;
+}
+
+.new-vision-body h3 {
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 125%;
+}
+
+.new-vision-body h4,
+.new-vision-body h5 {
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 125%;
+}
+
+.new-vision-body #nav-wrapper {
+	display:none;
+	visibility: hidden;
+}
+
+/* =================== Navigation ======================== */
+
+/* Top Nav */
+
+.new-vision-body #menu-top-wrapper {
+	margin-top:34px;
+	border-bottom: 1px solid #E6E6E6;
+	}
+
+#menu-top-container {
+	overflow:auto;
+	clear:both;
+	}
+
+#login-cart.nv-menu-top-container {
+	padding: 0;
+	}
+
+#login-cart .nv-menu-top ul.menu li {
+	padding: 5px 10px;
+	}
+
+#login-cart .nv-menu-top li a {
+	color: #999;
+	font-size:12px;
+	line-height:200%;
+	}
+
+#login-cart  .nv-menu-top li.current-menu-item a {
+	color: #AF1f23;
+	text-shadow: 1px 1px #fff;
+	}
+
+#login-cart .nv-menu-top #menu-item-5221 a {
+	color: #333;
+	font-weight: bold;
+	}
+
+/* Main Nav */
+
+.nv-nav-right {
+	float: right;
+	padding: 15px 0;
+	}
+
+.nv-nav-right ul {}
+
+.nv-nav-right ul li {
+	float: left;
+	padding: 0 10px;
+	position: relative;
+	}
+
+.nv-nav-right ul li a{
+	color: #777;
+	font-size:16px;
+	}
+
+.nv-nav-right ul li.current-menu-item a,
+.nv-nav-right ul li.current-menu-ancestor a {
+	color: #AF1f23;
+	}
+
+
+/* =================== Home ======================== */
+
+/* banner */
+
+.home-img {
+	background: transparent url("../images/home/form-your-business-2.png") no-repeat top left;
+	display:block;
+	width:960px;
+	height:490px;
+	}
+	
+body.page-4896 #main-wrapper {
+}
+
+/* Tabs */
+
+
+.home-tabs h2 {
+	font-size: 30px;
+	line-height: 125%;
+	font-weight: normal;
+}
+
+.home-tabs h3 {
+	font-size: 26px;
+	line-height: 150%;
+}
+
+.home-tabs h4 {
+	font-size: 18px;
+	line-height: 150%;
+}
+
+.home-tabs p {
+	color: #777;
+	font-size: 16px;
+	line-height: 150%;
+}
+
+/* Calculator */
+
+.home-tabs .big-list-item .calculator h2 {
+	font-size: 20px;
+	line-height: 200%;
+	margin-bottom: 8px;
+}
+
+.home-tabs .big-list-item .calculator h3 {
+	font-size: 18px;
+	line-height: 100%;
+}
+
+.home-tabs .big-list-item .calculator p {
+	color: #111;
+	font-size: 14px;
+	line-height: 100%;
+}
+
+.home-tabs .calculator li {
+	font-size: 12px;
+}
+
+/* Three Reasons */
+
+body.page-4896 .three-reasons {
+	padding:0 !important;
+	margin-top:40px;
+}
+
+.three-reasons h2 {
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 125%;
+	margin-bottom: 50px;
+}
+
+.three-reasons h2.big-number {
+	font-size: 80px;
+	line-height: 60px;
+	color: #ccc;
+}
+
+.three-reasons .big-list-number {
+	width:15%;
+}
+
+.three-reasons .big-list-item {
+	width:85%;
+	margin-bottom: 30px;
+}
+
+.three-reasons .big-list-item h2 {
+	margin-bottom:10px;
+}
+
+/* testimonials */
+
+.home-header h2 {
+	margin: 30px 0;
+}
+
+.et-testimonial-author-info .t-position {
+	font-size: 13px;
+}
+
+.new-vision-body .banner-text p {
+	font-size: 16px;
+	line-height: 32px;
+}
+
+.new-vision-body .testimonial p {
+	height:250px;
+}
+
+/* Calc Pop Up */
+
+.et_builder .calc-popup {
+}
+
+/* =================== Form my llc ======================== */
+
+#form-my-llc-wrapper {
+	background: transparent url("https://reference180.com/wp-content/themes/re180v3/images/home/seamlesstexture2_1200.jpg") repeat-x 0 0;
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #000;	
+}
+
+#form-my-llc-container {
+}
+
+#form-my-llc {
+	overflow: auto;
+	padding: 40px 0;
+	clear: both;
+	width: 100%;
+}
+
+#form-my-llc h2 {
+	float: left;
+	color: #fff;
+	text-shadow: 1px 1px #000;
+	font-size: 30px;
+	font-weight: normal;
+}
+
+#form-my-llc a.button,
+#nv-qsg table input.FormSubmitButton,
+.qsg-delivery a.button,
+.new-vision-body a.button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #fceaca;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #fceaca;
+	box-shadow:inset 0px 1px 0px 0px #fceaca;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ffce79), color-stop(1, #eeaf41) );
+	background:-moz-linear-gradient( center top, #ffce79 5%, #eeaf41 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffce79', endColorstr='#eeaf41');
+	background-color:#ffce79;
+	-webkit-border-top-left-radius:10px;
+	-moz-border-radius-topleft:10px;
+	border-top-left-radius:10px;
+	-webkit-border-top-right-radius:10px;
+	-moz-border-radius-topright:10px;
+	border-top-right-radius:10px;
+	-webkit-border-bottom-right-radius:10px;
+	-moz-border-radius-bottomright:10px;
+	border-bottom-right-radius:10px;
+	-webkit-border-bottom-left-radius:10px;
+	-moz-border-radius-bottomleft:10px;
+	border-bottom-left-radius:10px;
+	text-indent:0px;
+	border:2px solid #eeb44f;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:18px;
+	font-weight:bold;
+	font-style:normal;
+	height:50px;
+	line-height:50px;
+	width:200px;
+	padding: 0;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ce8e28;
+}
+#form-my-llc a.button {
+	float: right;
+}
+.new-vision-body a.button {
+	width:auto;
+	padding: 0 20px;
+}
+#form-my-llc a.button:hover,
+#nv-qsg table input.FormSubmitButton:hover,
+.qsg-delivery a.button:hover,
+.new-vision-body a.button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #eeaf41), color-stop(1, #ffce79) );
+	background:-moz-linear-gradient( center top, #eeaf41 5%, #ffce79 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#eeaf41', endColorstr='#ffce79');
+	background-color:#eeaf41;
+}
+#form-my-llc a.button:active,
+#nv-qsg table input.FormSubmitButton:active,
+.qsg-delivery a.button:active,
+.new-vision-body a.button:active {
+	position:relative;
+	top:1px;
+}
+
+.new-vision-body a.small-button {
+	margin:0;
+}
+
+.new-vision-body .web-pricing a.small-button {
+	margin-bottom:10px;
+}
+
+.new-vision-body a.opt-in-button {
+	padding: 0 10px;
+	font-size: 16px;
+	height: 25px;
+	line-height: 25px;
+	-webkit-border-top-left-radius: 5px;
+	-moz-border-radius-topleft: 5px;
+	border-top-left-radius: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-moz-border-radius-topright: 5px;
+	border-top-right-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	-moz-border-radius-bottomright: 5px;
+	border-bottom-right-radius: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+/*============================ Plans & Pricing ===========================*/
+
+.mobile-pricing {
+	display: none;
+}
+
+.page-4918 #form-my-llc-wrapper,
+.page-5265 #form-my-llc-wrapper,
+.page-5298 #form-my-llc-wrapper
+	 {
+	display:none;
+}
+
+.page-4918 .pricing table {
+	border-collapse: separate;
+	border: none;
+}
+
+.page-4918 .pricing table h2 {
+	color: #555;
+}
+
+.pricing table tr#top td:nth-child(1),
+.pricing table tr#bottom td:nth-child(1) {
+	background: transparent;
+	border-left: none;
+}
+
+.pricing table tr#middle td:nth-child(1) {
+	border-radius: 5px 0 0 0;
+}
+
+.pricing table tr:nth-child(18) td:nth-child(1) {
+	border-radius: 0 0 0 5px;
+	border-bottom: 1px solid #ededed;
+}
+
+.pricing table tr:nth-child(19) td:nth-child(1) {
+	border-top: none;
+}
+
+
+.pricing table td:nth-child(1) {
+	width: 200px !important;
+	padding: 0 15px;
+}
+
+.pricing table td:nth-child(1),
+.pricing table td:nth-child(1) p {
+	font-size:12px;
+}
+
+.pricing table td:nth-child(3) {
+	background-color: #fff !important;
+}
+
+/* info */
+
+.pricing table tr td:nth-child(1) {
+	border-left: 1px solid #ededed;
+}
+
+.pricing table tr#middle td:nth-child(1) {
+
+}
+
+/* premium */
+
+.pricing table tr td:nth-child(2) {
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+}
+
+
+.pricing table tr#top td:nth-child(2) {
+	border: 1px solid #ccc;
+	border-bottom: none;
+	border-radius: 10px 10px 0 0;
+}
+
+.pricing table tr#middle td:nth-child(2) {
+	border: 1px solid #ccc;
+	border-bottom: none;
+	border-top:none;
+}
+
+.pricing table tr#bottom td:nth-child(2) {
+	border: 1px solid #ccc;
+	border-radius: 0 0 10px 10px;
+
+}
+
+.pricing table td {
+	border-top: 1px solid #ededed;
+}
+
+/* deluxe */
+
+.pricing table tr td:nth-child(3) {
+	border-right: 1px solid #ccc;
+}
+
+
+.pricing table tr#top td:nth-child(3) {
+	border: 1px solid #ccc;
+	border-bottom: none;
+	border-left:none;
+	border-radius: 10px 10px 0 0;
+
+}
+
+.pricing table tr#middle td:nth-child(3) {
+	border-right: 1px solid #ccc;
+	border-top:none;
+}
+
+.pricing table tr#bottom td:nth-child(3) {
+	border: 1px solid #ccc;
+	border-left:none;
+	border-radius: 0 0 10px 10px;
+}
+
+/* standard */
+
+.pricing table tr td:nth-child(4) {
+	border-right: 1px solid #ccc;
+}
+
+.pricing table tr#top td:nth-child(4) {
+	border: 1px solid #ccc;
+	border-bottom: none;
+	border-left:none;
+	border-radius: 10px 10px 0 0;
+}
+
+.pricing table tr#middle td:nth-child(4) {
+	border-right: 1px solid #ccc;
+	border-top:none;
+}
+
+.pricing table tr#bottom td:nth-child(4) {
+	border: 1px solid #ccc;
+	border-left:none;
+	border-radius: 0 0 10px 10px;
+}
+
+/*============================ Free QSG / BOX ===========================*/
+
+.new-vision-body .et_lb_box .et_lb_module_content h1 {
+	font-size: 20px;
+}
+
+.new-vision-body .et_lb_box .et_lb_module_content h2 {
+	font-size: 18px;
+}
+
+.new-vision-body .et_lb_box .et_lb_module_content li {
+}
+
+body.page-4922 #main-wrapper {
+	background: transparent url("https://reference180.com/wp-content/themes/re180v3/images/home/seamlesstexture25_1200.jpg") repeat-x 0 0;
+}
+
+body.page-4922 .qsg-banner {
+	color:#aaa;
+	margin: 40px 0 110px 0 !important;
+}
+
+body.page-4922 .qsg-banner p {
+	font-size: 20px;
+	line-height: 30px;
+}
+
+body.page-4922 .qsg-banner select {
+	font-size: 16px;
+}
+
+body.page-4922 .qsg-banner h2 {
+	color: #fff;
+	text-shadow: 1px 3px #000;
+	font-size: 30px;
+}
+
+#nv-qsg table td{	
+	padding: 10px 0;
+}
+
+#nv-qsg table input.FormSubmitButton {
+	line-height:18px;
+	margin: 10px 0;
+}
+
+
+/* ======================================================= 
+New Vision Forms CSS 
+========================================================== */
+
+/*============================= Header ===================================== */
+
+#header-wrapper.nv-forms-wrapper {
+	border-bottom: 1px solid #ccc;
+	padding-top: 15px;
+	margin-bottom: 30px;
+}
+
+#header-wrapper.nv-forms-wrapper .contact-header {
+	text-align: right;
+	float: right;
+	margin: 5px 0;
+	color: #777;
+}
+
+/*============================ QSG State by State Sign up ================== */
+
+.new-vision-body .state-form p {
+	margin-top:15px;
+}
+
+.new-vision-body .state-copy h1 {	
+}
+
+.new-vision-body .state-copy h2 {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.new-vision-body .state-copy h3 {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.new-vision-body .inset {
+	margin-left: 30px;
+}
+
+/*============================ QSG Product Delivery ================== */
+
+.qsg-delivery a.button {
+	float:none;
+	height: 55px;
+	line-height: 27px;
+}
+
+/*=========================== Opt In Header ========================== */
+
+.new-vision-body #opt-in-wrapper {
+	padding: 0;
+}
+
+.new-vision-body #opt-in-wrapper #opt-in-container {
+	clear: both;
+	overflow: hidden;
+	height: 34px;
+}
+
+.new-vision-body #opt-in-wrapper p {
+	text-align: left;
+	color: #777;
+	float: left;
+	margin: 6px 0;
+	width: 35%;
+}
+
+.new-vision-body #opt-in-wrapper #wufoo-m9nmagi1illdfs {
+	width: 65%;
+	float: left;
+	color: #333;
+}
+
+.new-vision-body #opt-in-wrapper #wufoo-m9nmagi1illdfs a {
+	color: #333;
+}
+
+/*============================= ABOUT ================================ */
+
+.new-vision-body .our-commitment ol > li:before {
+	color: #ccc;
+	font-size: 40px;
+	font-style: italic;
+}
+
+.new-vision-body .our-commitment ol > li {
+	margin: 0 0 20px 3em;
+	padding: 4px 8px;
+}
+
+/*=========================== Order Forms =========================== */
+
+.new-vision-body .form-instructions p,
+.new-vision-body .form-instructions ol > li,
+.new-vision-body .form-instructions ul > li {
+	font-size: 12px;
+}
+
+/*============================ Opt-in Sale ========================== */
+
+.new-vision-body #opt-in-wrapper p.sale {
+	width:auto;
+}
+
+.new-vision-body #opt-in-wrapper p.sale .offer {
+	font-weight: bold;
+	color: #ddd;
+}
+
+.new-vision-body #opt-in-wrapper p.sale .offer .off {
+	color: #ffce79;
+}
+
+.form-offer h2 strong {
+color: #c80000;
+text-shadow: 2px 2px #fff;
+}

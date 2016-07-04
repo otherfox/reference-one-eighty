@@ -1,0 +1,63 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body#report {
+    margin:0;
+}
+
+#container, html.embed {
+    background-color: transparent;
+}
+
+#container {
+    margin: 0;
+    width: 100%;
+    min-width: 0 !important;?-webkit-box-shadow: 0;
+    -moz-box-shadow: 0;
+    -o-box-shadow: 0;
+    box-shadow: 0;
+}
+
+#stage {
+    padding: 0 !important;
+}
+
+.wfo_grid {
+    ?-webkit-box-shadow: 0 !important;
+    -moz-box-shadow: 0 !important;
+    -o-box-shadow: 0 !important;
+    box-shadow: 0 !important;
+}
+
+#logo { 
+    display:none;
+}
+
+#gridBar {
+    background:#565656;
+    display:none;
+}
+
+#readOnlyHolder {
+    border:1px solid #ddd;
+}
+
+#header {
+    display:none;
+}
+
+.footer h4 {
+    display:none;
+}
+
+.footer span {
+    display:none;
+}
+
+a {
+    color:#AF1f23;
+}
+
+.file-name[style] {
+    color:#AF1f23 !important;
+}

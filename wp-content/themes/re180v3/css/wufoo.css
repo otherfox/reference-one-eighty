@@ -1,0 +1,123 @@
+/*  WUFOO Customized Theme
+===================================================== */
+	
+	#lola {
+		margin-top:7px !important;
+	}
+			
+	#form260.page1 {
+		height: 950px;
+	}
+	
+	#form272.page1 {
+		height: 1080px;
+	}
+	
+	#form272 #fo272li481 {
+		width: 60% !important;
+	}
+	
+	#form260.wufoo,
+	#form272.wufoo {
+		min-height: 750px;
+	}
+	
+	#form260.page1 .instruct,
+	#form272.page1 .instruct {
+		left: 90%;
+		width: 61%;
+		padding: 8px 10px 10px 10px !important;
+		top: -110px;
+		position: absolute;
+		visibility:hidden;
+        opacity: 0;
+		z-index:1000;
+        transition: all .5s ease-out; 
+        -webkit-transition: all .5s ease-out;
+        -moz-transition: all .5s ease-out;
+        -o-transition: all .5s ease-out;
+		border: 1px solid #E6E6E6 !important;
+		background: #F5F5F5 !important;
+	}
+	
+	#form260.page1 li:hover .instruct,
+	#form272.page1 li:hover .instruct,
+	#form260.page1 li.focused .instruct,
+	#form272.page1 li.focused .instruct {
+            visibility:visible;
+            opacity: 1;
+	}
+	
+	#form260.page1 li:active .instruct,
+	#form272.page1 li:active .instruct {
+				-webkit-transition: opacity .5s ease-out;
+	}
+	
+	#form272.page1 .instruct {
+		top: -210px;
+	}
+    
+    input.medium, select.medium {
+        width: 80%;
+    }
+
+	.wufoo li {
+		width: 60%;
+	}
+	
+	.running li.section.first {
+		width: 60% !important;
+	}
+	
+	#lola {
+		width: 33%;
+		padding: 10px 12px 14px 6px;
+	}
+    
+    @media only screen and (min-width: 761px) {
+        
+        #form272 #fo272li481 {
+            width: auto !important;
+        }
+        
+        #form260.wufoo,
+        #form272.wufoo {
+            min-height: auto;
+        }
+        
+        #form260.page1 .instruct,
+        #form272.page1 .instruct {
+            top: 0;
+            left: 100%;
+            width: 45%;
+        }
+        
+        input.medium, select.medium {
+            width: 50%;
+        }
+        
+        .running li.section.first {
+            width: 68% !important;
+        }
+        
+        .wufoo li {
+            width: 64%;
+        }
+
+        #lola {
+            width: 29%;
+            padding: 10px 12px 14px 12px;
+        }
+        
+        li.threeColumns div span {
+		    width: 30%;
+	    }
+        
+        #form260.page1 {
+            height: 660px;
+        }
+        
+        #form272.page1 {
+            height: 680px;
+        }
+    }
