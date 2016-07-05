@@ -1449,6 +1449,7 @@ add_action( 'after_setup_theme', 'et_lb_setup_theme' );
 
 			register_sidebar( array(
 				'name' => $et_lb_widget_area,
+				'id' => $et_lb_widget_area,
 				'before_widget' => '<div id="%1$s" class="et_lb_widget %2$s">',
 				'after_widget' => "</div>",
 				'before_title' => '<h3 class="et_lb_widget-title">',
