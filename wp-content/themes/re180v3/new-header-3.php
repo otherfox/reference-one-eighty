@@ -118,7 +118,7 @@ Tempalte designed By : Nick Tennies
            
                     <ul id="credits">
 						<li><a href="http://wordpress.org" class="wordpress">Powered by Wordpress</a></li>
-						<li>: &copy; 2011 &ndash; 2014 reference180.com</li>
+						<li>: &copy; 2011 &ndash; <?= date('Y') ?> reference180.com</li>
 					</ul> 	
                     
 			</div><!-- close footer -->
