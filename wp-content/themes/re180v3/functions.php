@@ -1285,7 +1285,6 @@ function wl_api($atts) {
 
 		elseif($test=='true'){
 			$content = do_shortcode('[wufoo username="reference180" formhash="'.$formhash.'" autoresize="true" height="520" header="hide" ssl="true" defaultv="field7='.display_state_name($state)."&field8=".display_entity_name($entity).'&field9='.display_wufoo_code($state,$entity).'"]');
-
 		}
 
 
