@@ -1,6 +1,6 @@
 /* 	Custom Opt-in Wufoo Form Styling
 	Author: Nick Tennies
-/*	
+/*
 
 
 
@@ -8,7 +8,7 @@
 
 #saveForm { 				/* Same Line Submit */
 	position: relative;
-	top: -59px;	
+	top: -59px;
 	left: 330px;
 	-moz-box-shadow: inset 0px 1px 0px 0px #fceaca;
 	-webkit-box-shadow: inset 0px 1px 0px 0px #fceaca;
@@ -41,7 +41,7 @@
 	text-decoration: none;
 	text-align: center;
 	text-shadow: 1px 1px 0px #ce8e28;
-	cursor: pointer;	
+	cursor: pointer;
 	width: 80px;
 }
 
@@ -54,7 +54,7 @@
 
 #saveForm:active {
 	position:relative;
-	top: -58px;	
+	top: -58px;
 }
 
 /* Container */
@@ -91,12 +91,12 @@ form li {
 }
 
 form li.leftHalf, form li.rightHalf {
-	width: 42% !important;
+	width: 43% !important;
 }
 
 form li.rightHalf {
 	float: left;
-	width: 54% !important;
+	width: 52% !important;
 }
 
 input.medium, select.medium {
