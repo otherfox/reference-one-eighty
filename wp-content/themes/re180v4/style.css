@@ -38,3 +38,18 @@ tr#top td {
 tr#top td h2 {
     font-size: 1em;
 }
+
+/* footer */
+
+.footer-legal {
+    text-align: center;
+    padding: 20px 0;
+}
+
+ul#legal li, ul#credits li {
+    display: inline;
+}
+
+.footer-legal a {
+    color: #666;
+}
