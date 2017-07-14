@@ -40,20 +40,20 @@ if ( ! is_page_template( 'page-template-blank.php' ) ) : ?>
 				?>
 					</div>	<!-- .container -->
 				</div>
+                <div class="footer-legal">
+                    <ul id="legal">
+                        <li><a href="/terms-and-conditions">terms & conditions</a> | </li>
+                        <li><a href="/refund-policy">refund policy</a> | </li>
+                        <li><a href="/earnings-disclaimer">earnings disclaimer</a> | </li>
+                        <li><a href="/privacy-policy">privacy policy</a> | </li>
+                        <li><a href="/anti-spam-policy">anti-spam policy</a></li>
+                    </ul>
 
-                <ul id="legal">
-                    <li><a href="/terms-and-conditions">terms & conditions</a> | </li>
-                    <li><a href="/refund-policy">refund policy</a> | </li>
-                    <li><a href="/earnings-disclaimer">earnings disclaimer</a> | </li>
-                    <li><a href="/privacy-policy">privacy policy</a> | </li>
-                    <li><a href="/anti-spam-policy">anti-spam policy</a></li>
-                </ul>
-
-                <ul id="credits">
-                    <li><a href="http://wordpress.org" class="wordpress">Powered by Wordpress</a></li>
-                    <li>: &copy; 2011 &ndash; <?= date('Y') ?> reference180.com</li>
-                </ul>
-
+                    <ul id="credits">
+                        <li><a href="http://wordpress.org" class="wordpress">Powered by Wordpress</a></li>
+                        <li>: &copy; 2011 &ndash; <?= date('Y') ?> reference180.com</li>
+                    </ul>
+                </div>
 			</footer> <!-- #main-footer -->
 		</div> <!-- #et-main-area -->
 
