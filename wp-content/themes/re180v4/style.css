@@ -138,3 +138,18 @@ ul#legal li, ul#credits li {
     width: 20px;
     height: auto;
 }
+
+/* business formation page */
+.num {
+    background-color: #c0dae0;
+    border-radius: 25px;
+    color: #fff;
+    width: 20px;
+    height: 20px;
+    margin-left: 20px;
+    margin-right: 5px;
+    line-height: 20px;
+    font-size: 1em;
+    display: inline-block;
+    text-align: center;
+}
