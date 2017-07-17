@@ -104,6 +104,10 @@ ul#legal li, ul#credits li {
 
 /* homepage */
 
+.left {
+    float: left;
+}
+
 .big-list-item {
     width: 80%;
     margin-bottom: 30px;
