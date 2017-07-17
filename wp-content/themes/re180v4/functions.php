@@ -5,11 +5,12 @@ function re180_enqueue_styles() {
     wp_enqueue_script('main-js', get_stylesheet_directory_uri().'/js/main.js');
 }
 
-add_action('wp_enqueue_scripts', 're180_enqueue_styles')
+add_action('wp_enqueue_scripts', 're180_enqueue_styles');
 
 //================Calculator =============================
 
 //========================= Forms=========================
+
 function get_d_forms($atts,$content = null) {
 		extract( shortcode_atts( array(
 		'type' => '',
