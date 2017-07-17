@@ -101,3 +101,11 @@ ul#legal li, ul#credits li {
 .footer-legal a {
     color: #666;
 }
+
+/* bookkeepping page */
+
+.process img {
+    vertical-align: middle;
+    width: 30px;
+    height: auto;
+}
