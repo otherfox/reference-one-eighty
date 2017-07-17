@@ -39,6 +39,47 @@ tr#top td h2 {
     font-size: 1em;
 }
 
+tr#top td.legend {
+    width: 40%;
+}
+
+tr.section-header td {
+    border-bottom: 3px solid #eee;
+    padding: 12px 24px;
+    background-color: #fafafa;
+}
+
+tr.section-header h3 {
+    padding: 0;
+    font-size: .85em;
+    color: #aaa;
+}
+
+td.trigger .toggle {
+    border: 1px solid #fbc62f;
+    padding: 3px 5px;
+    color: #735A16;
+    line-height: 1.5;
+    background-color: #FEF4D9;
+    border-radius: 5px;
+    opacity: 0;
+    height: 0;
+    -webkit-transition: all 500ms ease-out;
+    -moz-transition: all 500ms ease-out;
+    -o-transition: all 500ms ease-out;
+    transition: all 500ms ease-out;
+}
+
+td.trigger .toggle.show {
+    opacity: 1;
+    height: auto;
+}
+
+td.trigger .more_icon {
+    color: #9d2020;
+    font-weight: bold;
+}
+
 /* footer */
 
 .footer-legal {
