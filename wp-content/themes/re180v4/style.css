@@ -34,6 +34,9 @@ tr#top td {
     padding-bottom: 20px;
     text-align: center;
 }
+tr#top .lengend {
+    text-align: left;
+}
 
 tr#top td h2 {
     font-size: 1em;
@@ -85,6 +88,19 @@ td.trigger .more_icon {
     color: #9d2020;
     font-weight: bold;
     cursor: pointer;
+}
+
+/* boxes */
+
+.et-shadow .et-box-content {
+    padding: 10px 27px 15px;
+    color: #333;
+    background: #fafafa;
+    border: none;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    font-style: normal;
 }
 
 /* footer */
@@ -140,6 +156,7 @@ ul#legal li, ul#credits li {
 }
 
 /* business formation page */
+
 .num {
     background-color: #c0dae0;
     border-radius: 25px;
@@ -152,4 +169,9 @@ ul#legal li, ul#credits li {
     font-size: 1em;
     display: inline-block;
     text-align: center;
+}
+
+.section-header .num,
+.legend .num {
+    margin-left: 0px;
 }
