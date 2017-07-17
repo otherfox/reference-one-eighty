@@ -102,6 +102,31 @@ ul#legal li, ul#credits li {
     color: #666;
 }
 
+/* homepage */
+
+.big-list-item {
+    width: 80%;
+    margin-bottom: 30px;
+    padding-right: 12%;
+}
+
+.big-list-number {
+    width: 20%;
+    text-align: right;
+    padding-right: 30px;
+}
+
+.big-list-number .big-number {
+    background-color: #c0dae0;
+    border-radius: 25px;
+    color: #fff;
+    width: 40px;
+    height: 40px;
+    float: right;
+    line-height: 40px;
+    font-size: 20px;
+}
+
 /* bookkeepping page */
 
 .process img {
