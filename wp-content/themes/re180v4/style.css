@@ -164,6 +164,7 @@ ul#legal li, ul#credits li {
     height: 40px;
     float: right;
     line-height: 40px;
+    text-align: center;
     font-size: 20px;
 }
 
@@ -176,6 +177,18 @@ ul#legal li, ul#credits li {
 }
 
 /* business formation page */
+
+.small-list-item {
+    width: 90%;
+    padding-right: 12%;
+}
+
+
+.small-list-number {
+    width: 10%;
+    text-align: right;
+    padding-right: 10px;
+}
 
 .num {
     background-color: #c0dae0;

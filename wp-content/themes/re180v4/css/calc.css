@@ -9,9 +9,10 @@
 	width:50%;
 }
 .ltcol p, .rtcol p{
-	margin:0px;
 	font-size: 10pt;
-	margin: 5px 0px 5px;
+    padding: 0;
+    margin: 5px 0px 5px;
+    line-height: 1.5;
 }
 .ltfloat {
 	float:left;
@@ -89,15 +90,16 @@
         cursor:default;
 }
 .rtcol p.calc_result {
-		width: 90%;
-        font-size: 10pt;
-        text-align:right;
-        border-radius: 5px;
-        background: #FFF;
-		border: 1px solid #bbb;
-        margin: 5px 0px 5px;
-		padding-right: 3%;
-        
+	width: 90%;
+    font-size: 10pt;
+    text-align: right;
+    border-radius: 5px;
+    background: #FFF;
+    border: 1px solid #bbb;
+    margin: 5px 0px 5px;
+    padding: 0 3%;
+    line-height: 1.5;
+
 }
 .calc_td_calculs
 {
@@ -135,32 +137,32 @@ input.calc_btn:active
 }
 #btcenter{
 		text-align:center;
-	
+
 }
 
 
-.et_lb_module ul li.outer-right{ 
+.et_lb_module ul li.outer-right{
 	margin: 0px;
     margin-left: -5px;
-    border-radius: 0px 5px 5px 0px; 
+    border-radius: 0px 5px 5px 0px;
     padding: 5px 5px 5px 5px;
-	background: none repeat scroll 0% 0% transparent; 
+	background: none repeat scroll 0% 0% transparent;
 }
 
-.et_lb_module ul li.inner-center { 
+.et_lb_module ul li.inner-center {
 	margin: 0px;
     margin-left: -5px;
-    border-radius: 0px 0px 0px 0px; 
+    border-radius: 0px 0px 0px 0px;
     padding: 5px 5px 5px 5px;
-	background: none repeat scroll 0% 0% transparent;   
+	background: none repeat scroll 0% 0% transparent;
 
 }
 
 .et_lb_module ul li.outer-left {
     border-radius: 5px 0px 0px 5px;
     padding: 5px 5px 5px 5px;
-	background: none repeat scroll 0% 0% transparent;  
-	margin: 0px;   
+	background: none repeat scroll 0% 0% transparent;
+	margin: 0px;
 }
 
 .buttonGroup
@@ -188,16 +190,16 @@ input.calc_btn:active
     color: #000;
     font-size: 12px;
     text-align: center;
-      	
+
     -webkit-box-flex: 1;
     border: solid 1px #9a9a99;
     -webkit-border-radius: 0px;
 
-    border-radius: 0px 0px 0px 0px; 
+    border-radius: 0px 0px 0px 0px;
     background:#eeeeee;
     background-color: #eeeeee;
     box-shadow: inset 0px -1px 2px #999;
-        
+
 }
 
 .buttonGroup > li:first-child
@@ -206,7 +208,7 @@ input.calc_btn:active
         -webkit-border-top-left-radius: 10px;
         -webkit-border-bottom-left-radius: 10px;
          border-radius: 5px 0px 0px 5px;
-    
+
 }
 
 .buttonGroup > li:last-child
@@ -217,6 +219,6 @@ input.calc_btn:active
 
 .et_lb_module .buttonGroup > li.selected
 {
-        background-color: #cdcdcd; 
-        color: #000;  
+        background-color: #cdcdcd;
+        color: #000;
 }
