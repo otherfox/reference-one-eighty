@@ -208,3 +208,16 @@ ul#legal li, ul#credits li {
 .legend .num {
     margin-left: 0px;
 }
+
+/* button */
+
+.et_divi_theme a.small-button.smallblack {
+    border-radius: 5px;
+    background: #EDF4F6;
+    border: 2px solid #c0dae0;
+    color: #49B4CC !important;
+    -moz-box-shadow: 0 0 5px #eee;
+     -webkit-box-shadow: 0 0 5px #eee;
+    box-shadow: 0 0 5px #eee;
+    text-shadow: none;
+}

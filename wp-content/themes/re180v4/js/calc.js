@@ -19,7 +19,7 @@ function $id(id)
 
 function f_calc(id,n)
 {
-	
+
         if(n=='ce')
         {
                 init_calc(id);
@@ -88,8 +88,8 @@ function f_calc(id,n)
         {
                 pas_ch=0;
         }
-        
-        //------------- sole pro / partnership ---------------------	
+
+        //------------- sole pro / partnership ---------------------
 		//net profit
 		var np = jQuery('#calc_result').val();
 		np = np.replace(/\D/g,"");
@@ -98,14 +98,14 @@ function f_calc(id,n)
 		if (np >= 1000000000) {
 			np = 0;
 		}
-		
+
 		//show net
-		
+
 		jQuery('p.net_profit').text('$'+commaSeparateNumber(np.toFixed(2)));
-		
+
 		//return se taxable
 		var se_taxable = (np*.9235).toFixed(2);
-		
+
 		//return se tax
 			if (np > min_np){
 				var min_se_tax = (min_np * .9235).toFixed(2);
@@ -115,14 +115,14 @@ function f_calc(id,n)
 
 				var se_tax = (se_taxable*.153).toFixed(2);
 			}
-		
+
 		//show se taxt
-		
+
 		jQuery('p.se_tax').text('$'+commaSeparateNumber(se_tax));
-		
+
 		//return net cash
 		var ncash = (np-se_tax).toFixed(2);
-		
+
 		//---------------- LLC/S-corp -----------------------------
 		var per_sal = jQuery("#percentValue").val();
 		if(per_sal > 0){
@@ -134,10 +134,10 @@ function f_calc(id,n)
 		if (np == 0) {
 			sal = (0).toFixed(2);
 		}
-		
+
 		//show salery
 		jQuery('p.salary').text('$'+commaSeparateNumber(sal));
-		
+
 		//return fica
 		if (sal > min_np){
 			var min_sal = (min_np*.9235).toFixed(2);
@@ -146,30 +146,30 @@ function f_calc(id,n)
 		}else{
 			var fica = ((sal*.9235)*.153).toFixed(2);
 		}
-		
+
 		//show fica
 		jQuery('p.fica_tax').text('$'+commaSeparateNumber(fica));
-		
+
 		// return net
 		var net = sal-fica;
-		
-		//return dividend 
+
+		//return dividend
 		var dividend = (np-sal).toFixed(2);
-		
+
 		//show dividend
 		jQuery('p.dividend').text('$'+commaSeparateNumber(dividend));
-		
+
 		//return net cash llc/scorp
 		var ncash_llc = parseFloat(net)+parseFloat(dividend);
-		
+
 		//return cashback
 		var cashback = (ncash_llc-ncash).toFixed(2);
 		var tax_sav = (((parseFloat(se_tax)-parseFloat(fica))*100)/100).toFixed(2);
-		
+
 		//show tax savings
 		jQuery('#tax-savings').text('$'+commaSeparateNumber(tax_sav));
 
-        
+
         document.getElementById(id+'_result').focus();
         return true;
 }
@@ -245,3 +245,12 @@ function key_detect_calc(id,evt)
         }
         return true;
 }
+
+jQuery(document).ready(function(){
+	jQuery('.li-click').click(function(){
+		jQuery('.li-click').removeClass('selected');
+		jQuery(this).addClass('selected');
+		jQuery("#percentValue").val(jQuery(this).attr('data-val'));
+		f_calc('calc', '=');
+	});
+});
