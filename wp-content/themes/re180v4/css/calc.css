@@ -167,7 +167,7 @@ ul li.outer-left {
     -webkit-box-pack:justify;
     -webkit-box-sizing: border-box;
     padding:0px;
-    margin: 0px 0px 0px -3px;
+    margin: 0 20px;
 	cursor:default;
 }
 
