@@ -94,7 +94,7 @@ function f_calc(id,n)
 		var np = jQuery('#calc_result').val();
 		np = np.replace(/\D/g,"");
         np = parseFloat(np);
-		var min_np = 113700;
+		var min_np = 127200;
 		if (np >= 1000000000) {
 			np = 0;
 		}
